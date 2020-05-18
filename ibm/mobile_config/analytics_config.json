@@ -1,0 +1,5604 @@
+{
+  "customCharts": [
+    {
+      "tableColumns": null,
+      "creatorUserID": "admin",
+      "chartProperties": {
+        "size": 10,
+        "offset": 0
+      },
+      "customYAxis": null,
+      "source": "fromPage",
+      "filters": [
+        {
+          "filter": "appName",
+          "filterValue": "com.aish.app",
+          "filterOperator": "equals",
+          "filterLabel": "Application Name",
+          "filterOperatorLabel": "Equals"
+        }
+      ],
+      "title": "PageFunnel_Aish",
+      "dest": "toPage",
+      "customEventType": "CustomData",
+      "customChartType": "FLOWCHART",
+      "term": "HomePage",
+      "customXAxis": null,
+      "metrics": null,
+      "id": "cc2eab0986-0ce3-4f05-bdeb-9cd881a93f53",
+      "timestamp": 1589811658700
+    },
+    {
+      "tableColumns": null,
+      "creatorUserID": "admin",
+      "chartProperties": {
+        "size": 10,
+        "offset": 0
+      },
+      "customYAxis": null,
+      "source": null,
+      "filters": [
+        {
+          "filter": "appName",
+          "filterValue": "com.aish.app",
+          "filterOperator": "equals",
+          "filterLabel": "Application Name",
+          "filterOperatorLabel": "Equals"
+        }
+      ],
+      "title": "ChatIntent_Aish",
+      "dest": null,
+      "customEventType": "CustomData",
+      "customChartType": "PIECHART",
+      "term": "Chat-Intents",
+      "customXAxis": null,
+      "metrics": null,
+      "id": "ccfe37cc17-8d26-4bfe-a657-5cf45ccf4433",
+      "timestamp": 1589811658689
+    },
+    {
+      "tableColumns": null,
+      "creatorUserID": "admin",
+      "chartProperties": {
+        "size": 10,
+        "offset": 0
+      },
+      "customYAxis": null,
+      "source": null,
+      "filters": [
+        {
+          "filter": "appName",
+          "filterValue": "com.aish.app",
+          "filterOperator": "equals",
+          "filterLabel": "Application Name",
+          "filterOperatorLabel": "Equals"
+        }
+      ],
+      "title": "ChatIntent_Aish",
+      "dest": null,
+      "customEventType": "CustomData",
+      "customChartType": "PIECHART",
+      "term": "Chat-Intents",
+      "customXAxis": null,
+      "metrics": null,
+      "id": "ccb7bdc936-e8f2-4aed-ba40-822f646db4bc",
+      "timestamp": 1589811658678
+    },
+    {
+      "tableColumns": null,
+      "creatorUserID": "admin",
+      "chartProperties": {
+        "size": 10,
+        "offset": 0
+      },
+      "customYAxis": null,
+      "source": "fromPage",
+      "filters": [
+        {
+          "filter": "appName",
+          "filterValue": "com.aish.app",
+          "filterOperator": "equals",
+          "filterLabel": "Application Name",
+          "filterOperatorLabel": "Equals"
+        }
+      ],
+      "title": "PageFunnel_Aish",
+      "dest": "toPage",
+      "customEventType": "CustomData",
+      "customChartType": "FLOWCHART",
+      "term": "HomePage",
+      "customXAxis": null,
+      "metrics": null,
+      "id": "ccf697a14d-eb82-4126-afb6-0790152a86b2",
+      "timestamp": 1589811658668
+    },
+    {
+      "tableColumns": null,
+      "creatorUserID": "admin",
+      "chartProperties": {
+        "size": 10,
+        "offset": 0
+      },
+      "customYAxis": null,
+      "source": "fromPage",
+      "filters": [
+        {
+          "filter": "appName",
+          "filterValue": "com.aish.app",
+          "filterOperator": "equals",
+          "filterLabel": "Application Name",
+          "filterOperatorLabel": "Equals"
+        }
+      ],
+      "title": "PageFunnel_Aish",
+      "dest": "toPage",
+      "customEventType": "CustomData",
+      "customChartType": "FLOWCHART",
+      "term": "HomePage",
+      "customXAxis": null,
+      "metrics": null,
+      "id": "cc86f03341-f5c2-4edc-ac47-aac2b127f02c",
+      "timestamp": 1589811658657
+    },
+    {
+      "tableColumns": null,
+      "creatorUserID": "admin",
+      "chartProperties": {
+        "size": 10,
+        "offset": 0
+      },
+      "customYAxis": null,
+      "source": null,
+      "filters": [
+        {
+          "filter": "appName",
+          "filterValue": "com.aish.app",
+          "filterOperator": "equals",
+          "filterLabel": "Application Name",
+          "filterOperatorLabel": "Equals"
+        }
+      ],
+      "title": "ChatIntent_Aish",
+      "dest": null,
+      "customEventType": "CustomData",
+      "customChartType": "PIECHART",
+      "term": "Chat-Intents",
+      "customXAxis": null,
+      "metrics": null,
+      "id": "ccd8e9e0b3-083b-4901-a1d8-fa426719bf7c",
+      "timestamp": 1589811658647
+    },
+    {
+      "tableColumns": null,
+      "creatorUserID": "admin",
+      "chartProperties": {
+        "size": 10,
+        "offset": 0
+      },
+      "customYAxis": null,
+      "source": null,
+      "filters": [
+        {
+          "filter": "appName",
+          "filterValue": "com.aish.app",
+          "filterOperator": "equals",
+          "filterLabel": "Application Name",
+          "filterOperatorLabel": "Equals"
+        }
+      ],
+      "title": "ChatIntent_Aish",
+      "dest": null,
+      "customEventType": "CustomData",
+      "customChartType": "PIECHART",
+      "term": "Chat-Intents",
+      "customXAxis": null,
+      "metrics": null,
+      "id": "cc72abe3e1-815f-4cf6-9458-3fe1803d8530",
+      "timestamp": 1589811658637
+    },
+    {
+      "tableColumns": null,
+      "creatorUserID": "admin",
+      "chartProperties": {
+        "size": 10,
+        "offset": 0
+      },
+      "customYAxis": null,
+      "source": "fromPage",
+      "filters": [
+        {
+          "filter": "appName",
+          "filterValue": "com.aish.app",
+          "filterOperator": "equals",
+          "filterLabel": "Application Name",
+          "filterOperatorLabel": "Equals"
+        }
+      ],
+      "title": "PageFunnel_Aish",
+      "dest": "toPage",
+      "customEventType": "CustomData",
+      "customChartType": "FLOWCHART",
+      "term": "HomePage",
+      "customXAxis": null,
+      "metrics": null,
+      "id": "cc71be3f6f-029c-4697-b4e5-ab942fffba48",
+      "timestamp": 1589811658627
+    },
+    {
+      "tableColumns": null,
+      "creatorUserID": "admin",
+      "chartProperties": {
+        "size": 10,
+        "offset": 0
+      },
+      "customYAxis": null,
+      "source": "fromPage",
+      "filters": [
+        {
+          "filter": "appName",
+          "filterValue": "com.aish.app",
+          "filterOperator": "equals",
+          "filterLabel": "Application Name",
+          "filterOperatorLabel": "Equals"
+        }
+      ],
+      "title": "PageFunnel_Aish",
+      "dest": "toPage",
+      "customEventType": "CustomData",
+      "customChartType": "FLOWCHART",
+      "term": "HomePage",
+      "customXAxis": null,
+      "metrics": null,
+      "id": "ccd6345cab-c164-4a04-9c93-83108451d538",
+      "timestamp": 1589811658616
+    },
+    {
+      "tableColumns": null,
+      "creatorUserID": "admin",
+      "chartProperties": {
+        "size": 10,
+        "offset": 0
+      },
+      "customYAxis": null,
+      "source": null,
+      "filters": [
+        {
+          "filter": "appName",
+          "filterValue": "com.aish.app",
+          "filterOperator": "equals",
+          "filterLabel": "Application Name",
+          "filterOperatorLabel": "Equals"
+        }
+      ],
+      "title": "ChatIntent_Aish",
+      "dest": null,
+      "customEventType": "CustomData",
+      "customChartType": "PIECHART",
+      "term": "Chat-Intents",
+      "customXAxis": null,
+      "metrics": null,
+      "id": "ccfc1edfb1-c06c-4c96-80fd-416db64d0556",
+      "timestamp": 1589811658606
+    },
+    {
+      "tableColumns": null,
+      "creatorUserID": "admin",
+      "chartProperties": {
+        "size": 10,
+        "offset": 0
+      },
+      "customYAxis": null,
+      "source": null,
+      "filters": [
+        {
+          "filter": "appName",
+          "filterValue": "com.aish.app",
+          "filterOperator": "equals",
+          "filterLabel": "Application Name",
+          "filterOperatorLabel": "Equals"
+        }
+      ],
+      "title": "ChatIntent_Aish",
+      "dest": null,
+      "customEventType": "CustomData",
+      "customChartType": "PIECHART",
+      "term": "Chat-Intents",
+      "customXAxis": null,
+      "metrics": null,
+      "id": "cc94d6b7b7-4147-486c-b415-7272b4b17f0c",
+      "timestamp": 1589811658589
+    },
+    {
+      "tableColumns": null,
+      "creatorUserID": "admin",
+      "chartProperties": {
+        "size": 10,
+        "offset": 0
+      },
+      "customYAxis": null,
+      "source": "fromPage",
+      "filters": [
+        {
+          "filter": "appName",
+          "filterValue": "com.aish.app",
+          "filterOperator": "equals",
+          "filterLabel": "Application Name",
+          "filterOperatorLabel": "Equals"
+        }
+      ],
+      "title": "PageFunnel_Aish",
+      "dest": "toPage",
+      "customEventType": "CustomData",
+      "customChartType": "FLOWCHART",
+      "term": "HomePage",
+      "customXAxis": null,
+      "metrics": null,
+      "id": "ccf50c545a-2753-49aa-b09a-35b10de5b5f8",
+      "timestamp": 1589811658578
+    },
+    {
+      "tableColumns": null,
+      "creatorUserID": "admin",
+      "chartProperties": {
+        "size": 10,
+        "offset": 0
+      },
+      "customYAxis": null,
+      "source": "fromPage",
+      "filters": [
+        {
+          "filter": "appName",
+          "filterValue": "com.aish.app",
+          "filterOperator": "equals",
+          "filterLabel": "Application Name",
+          "filterOperatorLabel": "Equals"
+        }
+      ],
+      "title": "PageFunnel_Aish",
+      "dest": "toPage",
+      "customEventType": "CustomData",
+      "customChartType": "FLOWCHART",
+      "term": "HomePage",
+      "customXAxis": null,
+      "metrics": null,
+      "id": "ccffaf7ab2-1958-4051-93a8-a860ac001d46",
+      "timestamp": 1589811658569
+    },
+    {
+      "tableColumns": null,
+      "creatorUserID": "admin",
+      "chartProperties": {
+        "size": 10,
+        "offset": 0
+      },
+      "customYAxis": null,
+      "source": null,
+      "filters": [
+        {
+          "filter": "appName",
+          "filterValue": "com.aish.app",
+          "filterOperator": "equals",
+          "filterLabel": "Application Name",
+          "filterOperatorLabel": "Equals"
+        }
+      ],
+      "title": "ChatIntent_Aish",
+      "dest": null,
+      "customEventType": "CustomData",
+      "customChartType": "PIECHART",
+      "term": "Chat-Intents",
+      "customXAxis": null,
+      "metrics": null,
+      "id": "ccacd64598-c5f4-476a-9756-e1b122e83960",
+      "timestamp": 1589811658560
+    },
+    {
+      "tableColumns": null,
+      "creatorUserID": "admin",
+      "chartProperties": {
+        "size": 10,
+        "offset": 0
+      },
+      "customYAxis": null,
+      "source": null,
+      "filters": [
+        {
+          "filter": "appName",
+          "filterValue": "com.aish.app",
+          "filterOperator": "equals",
+          "filterLabel": "Application Name",
+          "filterOperatorLabel": "Equals"
+        }
+      ],
+      "title": "ChatIntent_Aish",
+      "dest": null,
+      "customEventType": "CustomData",
+      "customChartType": "PIECHART",
+      "term": "Chat-Intents",
+      "customXAxis": null,
+      "metrics": null,
+      "id": "cc3c28f63f-7eec-40cf-883e-55754280ca8d",
+      "timestamp": 1589811658550
+    },
+    {
+      "tableColumns": null,
+      "creatorUserID": "admin",
+      "chartProperties": {
+        "size": 10,
+        "offset": 0
+      },
+      "customYAxis": null,
+      "source": "fromPage",
+      "filters": [
+        {
+          "filter": "appName",
+          "filterValue": "com.aish.app",
+          "filterOperator": "equals",
+          "filterLabel": "Application Name",
+          "filterOperatorLabel": "Equals"
+        }
+      ],
+      "title": "PageFunnel_Aish",
+      "dest": "toPage",
+      "customEventType": "CustomData",
+      "customChartType": "FLOWCHART",
+      "term": "HomePage",
+      "customXAxis": null,
+      "metrics": null,
+      "id": "cc6877aacb-699a-4356-9eeb-e874fbadc93e",
+      "timestamp": 1589811658539
+    },
+    {
+      "tableColumns": null,
+      "creatorUserID": "admin",
+      "chartProperties": {
+        "size": 10,
+        "offset": 0
+      },
+      "customYAxis": null,
+      "source": "fromPage",
+      "filters": [
+        {
+          "filter": "appName",
+          "filterValue": "com.aish.app",
+          "filterOperator": "equals",
+          "filterLabel": "Application Name",
+          "filterOperatorLabel": "Equals"
+        }
+      ],
+      "title": "PageFunnel_Aish",
+      "dest": "toPage",
+      "customEventType": "CustomData",
+      "customChartType": "FLOWCHART",
+      "term": "HomePage",
+      "customXAxis": null,
+      "metrics": null,
+      "id": "cc364f83be-16d0-4009-8e8e-824769186aa4",
+      "timestamp": 1589811658528
+    },
+    {
+      "tableColumns": null,
+      "creatorUserID": "admin",
+      "chartProperties": {
+        "size": 10,
+        "offset": 0
+      },
+      "customYAxis": null,
+      "source": null,
+      "filters": [
+        {
+          "filter": "appName",
+          "filterValue": "com.aish.app",
+          "filterOperator": "equals",
+          "filterLabel": "Application Name",
+          "filterOperatorLabel": "Equals"
+        }
+      ],
+      "title": "ChatIntent_Aish",
+      "dest": null,
+      "customEventType": "CustomData",
+      "customChartType": "PIECHART",
+      "term": "Chat-Intents",
+      "customXAxis": null,
+      "metrics": null,
+      "id": "ccc3d25872-e6d2-4b0b-b83e-e0471d9f89ad",
+      "timestamp": 1589811658520
+    },
+    {
+      "tableColumns": null,
+      "creatorUserID": "admin",
+      "chartProperties": {
+        "size": 10,
+        "offset": 0
+      },
+      "customYAxis": null,
+      "source": null,
+      "filters": [
+        {
+          "filter": "appName",
+          "filterValue": "com.aish.app",
+          "filterOperator": "equals",
+          "filterLabel": "Application Name",
+          "filterOperatorLabel": "Equals"
+        }
+      ],
+      "title": "ChatIntent_Aish",
+      "dest": null,
+      "customEventType": "CustomData",
+      "customChartType": "PIECHART",
+      "term": "Chat-Intents",
+      "customXAxis": null,
+      "metrics": null,
+      "id": "cc726fb3ff-d599-4a7c-a5b8-7ec194f18aa0",
+      "timestamp": 1589811658511
+    },
+    {
+      "tableColumns": null,
+      "creatorUserID": "admin",
+      "chartProperties": {
+        "size": 10,
+        "offset": 0
+      },
+      "customYAxis": null,
+      "source": "fromPage",
+      "filters": [
+        {
+          "filter": "appName",
+          "filterValue": "com.aish.app",
+          "filterOperator": "equals",
+          "filterLabel": "Application Name",
+          "filterOperatorLabel": "Equals"
+        }
+      ],
+      "title": "PageFunnel_Aish",
+      "dest": "toPage",
+      "customEventType": "CustomData",
+      "customChartType": "FLOWCHART",
+      "term": "HomePage",
+      "customXAxis": null,
+      "metrics": null,
+      "id": "cc998e728e-fe55-480a-8750-642d644787be",
+      "timestamp": 1589811658501
+    },
+    {
+      "tableColumns": null,
+      "creatorUserID": "admin",
+      "chartProperties": {
+        "size": 10,
+        "offset": 0
+      },
+      "customYAxis": null,
+      "source": "fromPage",
+      "filters": [
+        {
+          "filter": "appName",
+          "filterValue": "com.aish.app",
+          "filterOperator": "equals",
+          "filterLabel": "Application Name",
+          "filterOperatorLabel": "Equals"
+        }
+      ],
+      "title": "PageFunnel_Aish",
+      "dest": "toPage",
+      "customEventType": "CustomData",
+      "customChartType": "FLOWCHART",
+      "term": "HomePage",
+      "customXAxis": null,
+      "metrics": null,
+      "id": "ccca8f55c6-b95e-4288-b401-30f23647583d",
+      "timestamp": 1589811658491
+    },
+    {
+      "tableColumns": null,
+      "creatorUserID": "admin",
+      "chartProperties": {
+        "size": 10,
+        "offset": 0
+      },
+      "customYAxis": null,
+      "source": null,
+      "filters": [
+        {
+          "filter": "appName",
+          "filterValue": "com.aish.app",
+          "filterOperator": "equals",
+          "filterLabel": "Application Name",
+          "filterOperatorLabel": "Equals"
+        }
+      ],
+      "title": "ChatIntent_Aish",
+      "dest": null,
+      "customEventType": "CustomData",
+      "customChartType": "PIECHART",
+      "term": "Chat-Intents",
+      "customXAxis": null,
+      "metrics": null,
+      "id": "cc8d6bfd1b-9a98-4022-a1f3-fd75e5c311fe",
+      "timestamp": 1589811658483
+    },
+    {
+      "tableColumns": null,
+      "creatorUserID": "admin",
+      "chartProperties": {
+        "size": 10,
+        "offset": 0
+      },
+      "customYAxis": null,
+      "source": null,
+      "filters": [
+        {
+          "filter": "appName",
+          "filterValue": "com.aish.app",
+          "filterOperator": "equals",
+          "filterLabel": "Application Name",
+          "filterOperatorLabel": "Equals"
+        }
+      ],
+      "title": "ChatIntent_Aish",
+      "dest": null,
+      "customEventType": "CustomData",
+      "customChartType": "PIECHART",
+      "term": "Chat-Intents",
+      "customXAxis": null,
+      "metrics": null,
+      "id": "ccaf06b799-61b9-4a63-b110-3f5aca7401a4",
+      "timestamp": 1589811658475
+    },
+    {
+      "tableColumns": null,
+      "creatorUserID": "admin",
+      "chartProperties": {
+        "size": 10,
+        "offset": 0
+      },
+      "customYAxis": null,
+      "source": "fromPage",
+      "filters": [
+        {
+          "filter": "appName",
+          "filterValue": "com.aish.app",
+          "filterOperator": "equals",
+          "filterLabel": "Application Name",
+          "filterOperatorLabel": "Equals"
+        }
+      ],
+      "title": "PageFunnel_Aish",
+      "dest": "toPage",
+      "customEventType": "CustomData",
+      "customChartType": "FLOWCHART",
+      "term": "HomePage",
+      "customXAxis": null,
+      "metrics": null,
+      "id": "ccdb72d0a7-0689-4969-9cba-2e283317c6b7",
+      "timestamp": 1589811658465
+    },
+    {
+      "tableColumns": null,
+      "creatorUserID": "admin",
+      "chartProperties": {
+        "size": 10,
+        "offset": 0
+      },
+      "customYAxis": null,
+      "source": "fromPage",
+      "filters": [
+        {
+          "filter": "appName",
+          "filterValue": "com.aish.app",
+          "filterOperator": "equals",
+          "filterLabel": "Application Name",
+          "filterOperatorLabel": "Equals"
+        }
+      ],
+      "title": "PageFunnel_Aish",
+      "dest": "toPage",
+      "customEventType": "CustomData",
+      "customChartType": "FLOWCHART",
+      "term": "HomePage",
+      "customXAxis": null,
+      "metrics": null,
+      "id": "cce9535085-de8a-46ee-9069-e234147be6d6",
+      "timestamp": 1589811658453
+    },
+    {
+      "tableColumns": null,
+      "creatorUserID": "admin",
+      "chartProperties": {
+        "size": 10,
+        "offset": 0
+      },
+      "customYAxis": null,
+      "source": null,
+      "filters": [
+        {
+          "filter": "appName",
+          "filterValue": "com.aish.app",
+          "filterOperator": "equals",
+          "filterLabel": "Application Name",
+          "filterOperatorLabel": "Equals"
+        }
+      ],
+      "title": "ChatIntent_Aish",
+      "dest": null,
+      "customEventType": "CustomData",
+      "customChartType": "PIECHART",
+      "term": "Chat-Intents",
+      "customXAxis": null,
+      "metrics": null,
+      "id": "ccfa770617-2597-44a0-824a-dd7d56629006",
+      "timestamp": 1589811658446
+    },
+    {
+      "tableColumns": null,
+      "creatorUserID": "admin",
+      "chartProperties": {
+        "size": 10,
+        "offset": 0
+      },
+      "customYAxis": null,
+      "source": null,
+      "filters": [
+        {
+          "filter": "appName",
+          "filterValue": "com.aish.app",
+          "filterOperator": "equals",
+          "filterLabel": "Application Name",
+          "filterOperatorLabel": "Equals"
+        }
+      ],
+      "title": "ChatIntent_Aish",
+      "dest": null,
+      "customEventType": "CustomData",
+      "customChartType": "PIECHART",
+      "term": "Chat-Intents",
+      "customXAxis": null,
+      "metrics": null,
+      "id": "cc653ef9ac-318d-461c-8fce-ad866f18e39a",
+      "timestamp": 1589811658437
+    },
+    {
+      "tableColumns": null,
+      "creatorUserID": "admin",
+      "chartProperties": {
+        "size": 10,
+        "offset": 0
+      },
+      "customYAxis": null,
+      "source": "fromPage",
+      "filters": [
+        {
+          "filter": "appName",
+          "filterValue": "com.aish.app",
+          "filterOperator": "equals",
+          "filterLabel": "Application Name",
+          "filterOperatorLabel": "Equals"
+        }
+      ],
+      "title": "PageFunnel_Aish",
+      "dest": "toPage",
+      "customEventType": "CustomData",
+      "customChartType": "FLOWCHART",
+      "term": "HomePage",
+      "customXAxis": null,
+      "metrics": null,
+      "id": "cca2e99787-3128-4d71-b77b-4af08aa674f5",
+      "timestamp": 1589811658428
+    },
+    {
+      "tableColumns": null,
+      "creatorUserID": "admin",
+      "chartProperties": {
+        "size": 10,
+        "offset": 0
+      },
+      "customYAxis": null,
+      "source": "fromPage",
+      "filters": [
+        {
+          "filter": "appName",
+          "filterValue": "com.aish.app",
+          "filterOperator": "equals",
+          "filterLabel": "Application Name",
+          "filterOperatorLabel": "Equals"
+        }
+      ],
+      "title": "PageFunnel_Aish",
+      "dest": "toPage",
+      "customEventType": "CustomData",
+      "customChartType": "FLOWCHART",
+      "term": "HomePage",
+      "customXAxis": null,
+      "metrics": null,
+      "id": "cc814ca598-4e57-43e9-a399-d6440c5c67ff",
+      "timestamp": 1589811658418
+    },
+    {
+      "tableColumns": null,
+      "creatorUserID": "admin",
+      "chartProperties": {
+        "size": 10,
+        "offset": 0
+      },
+      "customYAxis": null,
+      "source": null,
+      "filters": [
+        {
+          "filter": "appName",
+          "filterValue": "com.aish.app",
+          "filterOperator": "equals",
+          "filterLabel": "Application Name",
+          "filterOperatorLabel": "Equals"
+        }
+      ],
+      "title": "ChatIntent_Aish",
+      "dest": null,
+      "customEventType": "CustomData",
+      "customChartType": "PIECHART",
+      "term": "Chat-Intents",
+      "customXAxis": null,
+      "metrics": null,
+      "id": "cc307ce34c-57bd-4f83-a60d-6bed5e2a34f5",
+      "timestamp": 1589811658410
+    },
+    {
+      "tableColumns": null,
+      "creatorUserID": "admin",
+      "chartProperties": {
+        "size": 10,
+        "offset": 0
+      },
+      "customYAxis": null,
+      "source": null,
+      "filters": [
+        {
+          "filter": "appName",
+          "filterValue": "com.aish.app",
+          "filterOperator": "equals",
+          "filterLabel": "Application Name",
+          "filterOperatorLabel": "Equals"
+        }
+      ],
+      "title": "ChatIntent_Aish",
+      "dest": null,
+      "customEventType": "CustomData",
+      "customChartType": "PIECHART",
+      "term": "Chat-Intents",
+      "customXAxis": null,
+      "metrics": null,
+      "id": "cc672d8715-6952-42e8-8fca-8ce5204c380a",
+      "timestamp": 1589811658401
+    },
+    {
+      "tableColumns": null,
+      "creatorUserID": "admin",
+      "chartProperties": {
+        "size": 10,
+        "offset": 0
+      },
+      "customYAxis": null,
+      "source": "fromPage",
+      "filters": [
+        {
+          "filter": "appName",
+          "filterValue": "com.aish.app",
+          "filterOperator": "equals",
+          "filterLabel": "Application Name",
+          "filterOperatorLabel": "Equals"
+        }
+      ],
+      "title": "PageFunnel_Aish",
+      "dest": "toPage",
+      "customEventType": "CustomData",
+      "customChartType": "FLOWCHART",
+      "term": "HomePage",
+      "customXAxis": null,
+      "metrics": null,
+      "id": "cc58fdbb1d-2427-44f2-9263-fe41183949ff",
+      "timestamp": 1589811658392
+    },
+    {
+      "tableColumns": null,
+      "creatorUserID": "admin",
+      "chartProperties": {
+        "size": 10,
+        "offset": 0
+      },
+      "customYAxis": null,
+      "source": "fromPage",
+      "filters": [
+        {
+          "filter": "appName",
+          "filterValue": "com.aish.app",
+          "filterOperator": "equals",
+          "filterLabel": "Application Name",
+          "filterOperatorLabel": "Equals"
+        }
+      ],
+      "title": "PageFunnel_Aish",
+      "dest": "toPage",
+      "customEventType": "CustomData",
+      "customChartType": "FLOWCHART",
+      "term": "HomePage",
+      "customXAxis": null,
+      "metrics": null,
+      "id": "ccc319b72d-5477-4e4f-beb7-327df9e2a8e0",
+      "timestamp": 1589811658383
+    },
+    {
+      "tableColumns": null,
+      "creatorUserID": "admin",
+      "chartProperties": {
+        "size": 10,
+        "offset": 0
+      },
+      "customYAxis": null,
+      "source": null,
+      "filters": [
+        {
+          "filter": "appName",
+          "filterValue": "com.aish.app",
+          "filterOperator": "equals",
+          "filterLabel": "Application Name",
+          "filterOperatorLabel": "Equals"
+        }
+      ],
+      "title": "ChatIntent_Aish",
+      "dest": null,
+      "customEventType": "CustomData",
+      "customChartType": "PIECHART",
+      "term": "Chat-Intents",
+      "customXAxis": null,
+      "metrics": null,
+      "id": "cc8d7daa0c-ba5b-43d4-a939-f19af8463ac0",
+      "timestamp": 1589811658373
+    },
+    {
+      "tableColumns": null,
+      "creatorUserID": "admin",
+      "chartProperties": {
+        "size": 10,
+        "offset": 0
+      },
+      "customYAxis": null,
+      "source": null,
+      "filters": [
+        {
+          "filter": "appName",
+          "filterValue": "com.aish.app",
+          "filterOperator": "equals",
+          "filterLabel": "Application Name",
+          "filterOperatorLabel": "Equals"
+        }
+      ],
+      "title": "ChatIntent_Aish",
+      "dest": null,
+      "customEventType": "CustomData",
+      "customChartType": "PIECHART",
+      "term": "Chat-Intents",
+      "customXAxis": null,
+      "metrics": null,
+      "id": "cc8c89f2dd-dcc6-401b-abfb-a5542599ff54",
+      "timestamp": 1589811658365
+    },
+    {
+      "tableColumns": null,
+      "creatorUserID": "admin",
+      "chartProperties": {
+        "size": 10,
+        "offset": 0
+      },
+      "customYAxis": null,
+      "source": "fromPage",
+      "filters": [
+        {
+          "filter": "appName",
+          "filterValue": "com.aish.app",
+          "filterOperator": "equals",
+          "filterLabel": "Application Name",
+          "filterOperatorLabel": "Equals"
+        }
+      ],
+      "title": "PageFunnel_Aish",
+      "dest": "toPage",
+      "customEventType": "CustomData",
+      "customChartType": "FLOWCHART",
+      "term": "HomePage",
+      "customXAxis": null,
+      "metrics": null,
+      "id": "cc264edd5a-0dcc-473e-bf8d-3f69364c90f5",
+      "timestamp": 1589811658355
+    },
+    {
+      "tableColumns": null,
+      "creatorUserID": "admin",
+      "chartProperties": {
+        "size": 10,
+        "offset": 0
+      },
+      "customYAxis": null,
+      "source": "fromPage",
+      "filters": [
+        {
+          "filter": "appName",
+          "filterValue": "com.aish.app",
+          "filterOperator": "equals",
+          "filterLabel": "Application Name",
+          "filterOperatorLabel": "Equals"
+        }
+      ],
+      "title": "PageFunnel_Aish",
+      "dest": "toPage",
+      "customEventType": "CustomData",
+      "customChartType": "FLOWCHART",
+      "term": "HomePage",
+      "customXAxis": null,
+      "metrics": null,
+      "id": "cc20454b64-ae4a-4e17-ae38-ada30fb85d49",
+      "timestamp": 1589811658345
+    },
+    {
+      "tableColumns": null,
+      "creatorUserID": "admin",
+      "chartProperties": {
+        "size": 10,
+        "offset": 0
+      },
+      "customYAxis": null,
+      "source": null,
+      "filters": [
+        {
+          "filter": "appName",
+          "filterValue": "com.aish.app",
+          "filterOperator": "equals",
+          "filterLabel": "Application Name",
+          "filterOperatorLabel": "Equals"
+        }
+      ],
+      "title": "ChatIntent_Aish",
+      "dest": null,
+      "customEventType": "CustomData",
+      "customChartType": "PIECHART",
+      "term": "Chat-Intents",
+      "customXAxis": null,
+      "metrics": null,
+      "id": "cc76654edf-65ac-4013-b784-1972d515bb6a",
+      "timestamp": 1589811658337
+    },
+    {
+      "tableColumns": null,
+      "creatorUserID": "admin",
+      "chartProperties": {
+        "size": 10,
+        "offset": 0
+      },
+      "customYAxis": null,
+      "source": null,
+      "filters": [
+        {
+          "filter": "appName",
+          "filterValue": "com.aish.app",
+          "filterOperator": "equals",
+          "filterLabel": "Application Name",
+          "filterOperatorLabel": "Equals"
+        }
+      ],
+      "title": "ChatIntent_Aish",
+      "dest": null,
+      "customEventType": "CustomData",
+      "customChartType": "PIECHART",
+      "term": "Chat-Intents",
+      "customXAxis": null,
+      "metrics": null,
+      "id": "cc475b9444-bc6e-48b9-a2cc-2ff59d025f64",
+      "timestamp": 1589811658330
+    },
+    {
+      "tableColumns": null,
+      "creatorUserID": "admin",
+      "chartProperties": {
+        "size": 10,
+        "offset": 0
+      },
+      "customYAxis": null,
+      "source": "fromPage",
+      "filters": [
+        {
+          "filter": "appName",
+          "filterValue": "com.aish.app",
+          "filterOperator": "equals",
+          "filterLabel": "Application Name",
+          "filterOperatorLabel": "Equals"
+        }
+      ],
+      "title": "PageFunnel_Aish",
+      "dest": "toPage",
+      "customEventType": "CustomData",
+      "customChartType": "FLOWCHART",
+      "term": "HomePage",
+      "customXAxis": null,
+      "metrics": null,
+      "id": "cc5a04d230-2ced-4a1f-b8aa-bb6b0f1073c3",
+      "timestamp": 1589811658322
+    },
+    {
+      "tableColumns": null,
+      "creatorUserID": "admin",
+      "chartProperties": {
+        "size": 10,
+        "offset": 0
+      },
+      "customYAxis": null,
+      "source": "fromPage",
+      "filters": [
+        {
+          "filter": "appName",
+          "filterValue": "com.aish.app",
+          "filterOperator": "equals",
+          "filterLabel": "Application Name",
+          "filterOperatorLabel": "Equals"
+        }
+      ],
+      "title": "PageFunnel_Aish",
+      "dest": "toPage",
+      "customEventType": "CustomData",
+      "customChartType": "FLOWCHART",
+      "term": "HomePage",
+      "customXAxis": null,
+      "metrics": null,
+      "id": "ccd86512e9-0ce0-492a-b6f3-786bdda42e71",
+      "timestamp": 1589811658312
+    },
+    {
+      "tableColumns": null,
+      "creatorUserID": "admin",
+      "chartProperties": {
+        "size": 10,
+        "offset": 0
+      },
+      "customYAxis": null,
+      "source": null,
+      "filters": [
+        {
+          "filter": "appName",
+          "filterValue": "com.aish.app",
+          "filterOperator": "equals",
+          "filterLabel": "Application Name",
+          "filterOperatorLabel": "Equals"
+        }
+      ],
+      "title": "ChatIntent_Aish",
+      "dest": null,
+      "customEventType": "CustomData",
+      "customChartType": "PIECHART",
+      "term": "Chat-Intents",
+      "customXAxis": null,
+      "metrics": null,
+      "id": "cc12345daf-0815-4388-92dd-cef63a37f12b",
+      "timestamp": 1589811658304
+    },
+    {
+      "tableColumns": null,
+      "creatorUserID": "admin",
+      "chartProperties": {
+        "size": 10,
+        "offset": 0
+      },
+      "customYAxis": null,
+      "source": null,
+      "filters": [
+        {
+          "filter": "appName",
+          "filterValue": "com.aish.app",
+          "filterOperator": "equals",
+          "filterLabel": "Application Name",
+          "filterOperatorLabel": "Equals"
+        }
+      ],
+      "title": "ChatIntent_Aish",
+      "dest": null,
+      "customEventType": "CustomData",
+      "customChartType": "PIECHART",
+      "term": "Chat-Intents",
+      "customXAxis": null,
+      "metrics": null,
+      "id": "ccdbb17c78-b0ad-465a-a525-59df60dd40d9",
+      "timestamp": 1589811658297
+    },
+    {
+      "tableColumns": null,
+      "creatorUserID": "admin",
+      "chartProperties": {
+        "size": 10,
+        "offset": 0
+      },
+      "customYAxis": null,
+      "source": "fromPage",
+      "filters": [
+        {
+          "filter": "appName",
+          "filterValue": "com.aish.app",
+          "filterOperator": "equals",
+          "filterLabel": "Application Name",
+          "filterOperatorLabel": "Equals"
+        }
+      ],
+      "title": "PageFunnel_Aish",
+      "dest": "toPage",
+      "customEventType": "CustomData",
+      "customChartType": "FLOWCHART",
+      "term": "HomePage",
+      "customXAxis": null,
+      "metrics": null,
+      "id": "ccb907d74f-dc1c-42e7-b73f-c66be8da9c02",
+      "timestamp": 1589811658289
+    },
+    {
+      "tableColumns": null,
+      "creatorUserID": "admin",
+      "chartProperties": {
+        "size": 10,
+        "offset": 0
+      },
+      "customYAxis": null,
+      "source": "fromPage",
+      "filters": [
+        {
+          "filter": "appName",
+          "filterValue": "com.aish.app",
+          "filterOperator": "equals",
+          "filterLabel": "Application Name",
+          "filterOperatorLabel": "Equals"
+        }
+      ],
+      "title": "PageFunnel_Aish",
+      "dest": "toPage",
+      "customEventType": "CustomData",
+      "customChartType": "FLOWCHART",
+      "term": "HomePage",
+      "customXAxis": null,
+      "metrics": null,
+      "id": "ccc45d0617-ccb6-489e-ad5e-84013959c2cf",
+      "timestamp": 1589811658279
+    },
+    {
+      "tableColumns": null,
+      "creatorUserID": "admin",
+      "chartProperties": {
+        "size": 10,
+        "offset": 0
+      },
+      "customYAxis": null,
+      "source": null,
+      "filters": [
+        {
+          "filter": "appName",
+          "filterValue": "com.aish.app",
+          "filterOperator": "equals",
+          "filterLabel": "Application Name",
+          "filterOperatorLabel": "Equals"
+        }
+      ],
+      "title": "ChatIntent_Aish",
+      "dest": null,
+      "customEventType": "CustomData",
+      "customChartType": "PIECHART",
+      "term": "Chat-Intents",
+      "customXAxis": null,
+      "metrics": null,
+      "id": "ccd465b49a-649d-4988-bbb9-3a9495122174",
+      "timestamp": 1589811658270
+    },
+    {
+      "tableColumns": null,
+      "creatorUserID": "admin",
+      "chartProperties": {
+        "size": 10,
+        "offset": 0
+      },
+      "customYAxis": null,
+      "source": null,
+      "filters": [
+        {
+          "filter": "appName",
+          "filterValue": "com.aish.app",
+          "filterOperator": "equals",
+          "filterLabel": "Application Name",
+          "filterOperatorLabel": "Equals"
+        }
+      ],
+      "title": "ChatIntent_Aish",
+      "dest": null,
+      "customEventType": "CustomData",
+      "customChartType": "PIECHART",
+      "term": "Chat-Intents",
+      "customXAxis": null,
+      "metrics": null,
+      "id": "cc0be1f319-47fc-49dd-b6ab-61194b963a26",
+      "timestamp": 1589811658261
+    },
+    {
+      "tableColumns": null,
+      "creatorUserID": "admin",
+      "chartProperties": {
+        "size": 10,
+        "offset": 0
+      },
+      "customYAxis": null,
+      "source": "fromPage",
+      "filters": [
+        {
+          "filter": "appName",
+          "filterValue": "com.aish.app",
+          "filterOperator": "equals",
+          "filterLabel": "Application Name",
+          "filterOperatorLabel": "Equals"
+        }
+      ],
+      "title": "PageFunnel_Aish",
+      "dest": "toPage",
+      "customEventType": "CustomData",
+      "customChartType": "FLOWCHART",
+      "term": "HomePage",
+      "customXAxis": null,
+      "metrics": null,
+      "id": "ccfab546ab-610d-4d38-b278-e9085e8a0097",
+      "timestamp": 1589811658251
+    },
+    {
+      "tableColumns": null,
+      "creatorUserID": "admin",
+      "chartProperties": {
+        "size": 10,
+        "offset": 0
+      },
+      "customYAxis": null,
+      "source": "fromPage",
+      "filters": [
+        {
+          "filter": "appName",
+          "filterValue": "com.aish.app",
+          "filterOperator": "equals",
+          "filterLabel": "Application Name",
+          "filterOperatorLabel": "Equals"
+        }
+      ],
+      "title": "PageFunnel_Aish",
+      "dest": "toPage",
+      "customEventType": "CustomData",
+      "customChartType": "FLOWCHART",
+      "term": "HomePage",
+      "customXAxis": null,
+      "metrics": null,
+      "id": "cc6c95071a-1296-4186-b620-744fd4d7c467",
+      "timestamp": 1589811658241
+    },
+    {
+      "tableColumns": null,
+      "creatorUserID": "admin",
+      "chartProperties": {
+        "size": 10,
+        "offset": 0
+      },
+      "customYAxis": null,
+      "source": null,
+      "filters": [
+        {
+          "filter": "appName",
+          "filterValue": "com.aish.app",
+          "filterOperator": "equals",
+          "filterLabel": "Application Name",
+          "filterOperatorLabel": "Equals"
+        }
+      ],
+      "title": "ChatIntent_Aish",
+      "dest": null,
+      "customEventType": "CustomData",
+      "customChartType": "PIECHART",
+      "term": "Chat-Intents",
+      "customXAxis": null,
+      "metrics": null,
+      "id": "cc8bec5d8c-a23a-4960-a3a1-3a28b63311f4",
+      "timestamp": 1589811658234
+    },
+    {
+      "tableColumns": null,
+      "creatorUserID": "admin",
+      "chartProperties": {
+        "size": 10,
+        "offset": 0
+      },
+      "customYAxis": null,
+      "source": null,
+      "filters": [
+        {
+          "filter": "appName",
+          "filterValue": "com.aish.app",
+          "filterOperator": "equals",
+          "filterLabel": "Application Name",
+          "filterOperatorLabel": "Equals"
+        }
+      ],
+      "title": "ChatIntent_Aish",
+      "dest": null,
+      "customEventType": "CustomData",
+      "customChartType": "PIECHART",
+      "term": "Chat-Intents",
+      "customXAxis": null,
+      "metrics": null,
+      "id": "cc09fa941f-ac8d-4de6-aeb4-500c75c6a4e6",
+      "timestamp": 1589811658225
+    },
+    {
+      "tableColumns": null,
+      "creatorUserID": "admin",
+      "chartProperties": {
+        "size": 10,
+        "offset": 0
+      },
+      "customYAxis": null,
+      "source": "fromPage",
+      "filters": [
+        {
+          "filter": "appName",
+          "filterValue": "com.aish.app",
+          "filterOperator": "equals",
+          "filterLabel": "Application Name",
+          "filterOperatorLabel": "Equals"
+        }
+      ],
+      "title": "PageFunnel_Aish",
+      "dest": "toPage",
+      "customEventType": "CustomData",
+      "customChartType": "FLOWCHART",
+      "term": "HomePage",
+      "customXAxis": null,
+      "metrics": null,
+      "id": "ccce271122-1247-43ab-b8d0-785e95c9866c",
+      "timestamp": 1589811658214
+    },
+    {
+      "tableColumns": null,
+      "creatorUserID": "admin",
+      "chartProperties": {
+        "size": 10,
+        "offset": 0
+      },
+      "customYAxis": null,
+      "source": "fromPage",
+      "filters": [
+        {
+          "filter": "appName",
+          "filterValue": "com.aish.app",
+          "filterOperator": "equals",
+          "filterLabel": "Application Name",
+          "filterOperatorLabel": "Equals"
+        }
+      ],
+      "title": "PageFunnel_Aish",
+      "dest": "toPage",
+      "customEventType": "CustomData",
+      "customChartType": "FLOWCHART",
+      "term": "HomePage",
+      "customXAxis": null,
+      "metrics": null,
+      "id": "ccbd996273-1bed-408d-9d06-87c61c7f0470",
+      "timestamp": 1589811658202
+    },
+    {
+      "tableColumns": null,
+      "creatorUserID": "admin",
+      "chartProperties": {
+        "size": 10,
+        "offset": 0
+      },
+      "customYAxis": null,
+      "source": null,
+      "filters": [
+        {
+          "filter": "appName",
+          "filterValue": "com.aish.app",
+          "filterOperator": "equals",
+          "filterLabel": "Application Name",
+          "filterOperatorLabel": "Equals"
+        }
+      ],
+      "title": "ChatIntent_Aish",
+      "dest": null,
+      "customEventType": "CustomData",
+      "customChartType": "PIECHART",
+      "term": "Chat-Intents",
+      "customXAxis": null,
+      "metrics": null,
+      "id": "cce4a4e565-7876-4469-915c-7d607c06007f",
+      "timestamp": 1589811658193
+    },
+    {
+      "tableColumns": null,
+      "creatorUserID": "admin",
+      "chartProperties": {
+        "size": 10,
+        "offset": 0
+      },
+      "customYAxis": null,
+      "source": null,
+      "filters": [
+        {
+          "filter": "appName",
+          "filterValue": "com.aish.app",
+          "filterOperator": "equals",
+          "filterLabel": "Application Name",
+          "filterOperatorLabel": "Equals"
+        }
+      ],
+      "title": "ChatIntent_Aish",
+      "dest": null,
+      "customEventType": "CustomData",
+      "customChartType": "PIECHART",
+      "term": "Chat-Intents",
+      "customXAxis": null,
+      "metrics": null,
+      "id": "ccbe0246d0-b528-40db-85ed-f7d2a57fa249",
+      "timestamp": 1589811658184
+    },
+    {
+      "tableColumns": null,
+      "creatorUserID": "admin",
+      "chartProperties": {
+        "size": 10,
+        "offset": 0
+      },
+      "customYAxis": null,
+      "source": "fromPage",
+      "filters": [
+        {
+          "filter": "appName",
+          "filterValue": "com.aish.app",
+          "filterOperator": "equals",
+          "filterLabel": "Application Name",
+          "filterOperatorLabel": "Equals"
+        }
+      ],
+      "title": "PageFunnel_Aish",
+      "dest": "toPage",
+      "customEventType": "CustomData",
+      "customChartType": "FLOWCHART",
+      "term": "HomePage",
+      "customXAxis": null,
+      "metrics": null,
+      "id": "ccf5e58be3-27e0-4967-af4e-41cb3fd24265",
+      "timestamp": 1589811658175
+    },
+    {
+      "tableColumns": null,
+      "creatorUserID": "admin",
+      "chartProperties": {
+        "size": 10,
+        "offset": 0
+      },
+      "customYAxis": null,
+      "source": "fromPage",
+      "filters": [
+        {
+          "filter": "appName",
+          "filterValue": "com.aish.app",
+          "filterOperator": "equals",
+          "filterLabel": "Application Name",
+          "filterOperatorLabel": "Equals"
+        }
+      ],
+      "title": "PageFunnel_Aish",
+      "dest": "toPage",
+      "customEventType": "CustomData",
+      "customChartType": "FLOWCHART",
+      "term": "HomePage",
+      "customXAxis": null,
+      "metrics": null,
+      "id": "cc2b92173b-07df-41c4-bdea-9eef9d2d008e",
+      "timestamp": 1589811658167
+    },
+    {
+      "tableColumns": null,
+      "creatorUserID": "admin",
+      "chartProperties": {
+        "size": 10,
+        "offset": 0
+      },
+      "customYAxis": null,
+      "source": null,
+      "filters": [
+        {
+          "filter": "appName",
+          "filterValue": "com.aish.app",
+          "filterOperator": "equals",
+          "filterLabel": "Application Name",
+          "filterOperatorLabel": "Equals"
+        }
+      ],
+      "title": "ChatIntent_Aish",
+      "dest": null,
+      "customEventType": "CustomData",
+      "customChartType": "PIECHART",
+      "term": "Chat-Intents",
+      "customXAxis": null,
+      "metrics": null,
+      "id": "ccebc6a74c-8809-4a66-a567-fbda341f0283",
+      "timestamp": 1589811658159
+    },
+    {
+      "tableColumns": null,
+      "creatorUserID": "admin",
+      "chartProperties": {
+        "size": 10,
+        "offset": 0
+      },
+      "customYAxis": null,
+      "source": null,
+      "filters": [
+        {
+          "filter": "appName",
+          "filterValue": "com.aish.app",
+          "filterOperator": "equals",
+          "filterLabel": "Application Name",
+          "filterOperatorLabel": "Equals"
+        }
+      ],
+      "title": "ChatIntent_Aish",
+      "dest": null,
+      "customEventType": "CustomData",
+      "customChartType": "PIECHART",
+      "term": "Chat-Intents",
+      "customXAxis": null,
+      "metrics": null,
+      "id": "cce7c63615-e286-41d7-9430-c146df1ff2b4",
+      "timestamp": 1589811658152
+    },
+    {
+      "tableColumns": null,
+      "creatorUserID": "admin",
+      "chartProperties": {
+        "size": 10,
+        "offset": 0
+      },
+      "customYAxis": null,
+      "source": "fromPage",
+      "filters": [
+        {
+          "filter": "appName",
+          "filterValue": "com.aish.app",
+          "filterOperator": "equals",
+          "filterLabel": "Application Name",
+          "filterOperatorLabel": "Equals"
+        }
+      ],
+      "title": "PageFunnel_Aish",
+      "dest": "toPage",
+      "customEventType": "CustomData",
+      "customChartType": "FLOWCHART",
+      "term": "HomePage",
+      "customXAxis": null,
+      "metrics": null,
+      "id": "cc044a9cd6-3d3b-4f15-9621-a07295dedfd6",
+      "timestamp": 1589811658144
+    },
+    {
+      "tableColumns": null,
+      "creatorUserID": "admin",
+      "chartProperties": {
+        "size": 10,
+        "offset": 0
+      },
+      "customYAxis": null,
+      "source": "fromPage",
+      "filters": [
+        {
+          "filter": "appName",
+          "filterValue": "com.aish.app",
+          "filterOperator": "equals",
+          "filterLabel": "Application Name",
+          "filterOperatorLabel": "Equals"
+        }
+      ],
+      "title": "PageFunnel_Aish",
+      "dest": "toPage",
+      "customEventType": "CustomData",
+      "customChartType": "FLOWCHART",
+      "term": "HomePage",
+      "customXAxis": null,
+      "metrics": null,
+      "id": "cc17e7fa2b-cd00-414d-a966-d04b6752be8b",
+      "timestamp": 1589811658118
+    },
+    {
+      "tableColumns": null,
+      "creatorUserID": "admin",
+      "chartProperties": {
+        "size": 10,
+        "offset": 0
+      },
+      "customYAxis": null,
+      "source": null,
+      "filters": [
+        {
+          "filter": "appName",
+          "filterValue": "com.aish.app",
+          "filterOperator": "equals",
+          "filterLabel": "Application Name",
+          "filterOperatorLabel": "Equals"
+        }
+      ],
+      "title": "ChatIntent_Aish",
+      "dest": null,
+      "customEventType": "CustomData",
+      "customChartType": "PIECHART",
+      "term": "Chat-Intents",
+      "customXAxis": null,
+      "metrics": null,
+      "id": "cc7e6d3904-f4ce-4e15-8a74-8e3a0c7db6ed",
+      "timestamp": 1589811658111
+    },
+    {
+      "tableColumns": null,
+      "creatorUserID": "admin",
+      "chartProperties": {
+        "size": 10,
+        "offset": 0
+      },
+      "customYAxis": null,
+      "source": null,
+      "filters": [
+        {
+          "filter": "appName",
+          "filterValue": "com.aish.app",
+          "filterOperator": "equals",
+          "filterLabel": "Application Name",
+          "filterOperatorLabel": "Equals"
+        }
+      ],
+      "title": "ChatIntent_Aish",
+      "dest": null,
+      "customEventType": "CustomData",
+      "customChartType": "PIECHART",
+      "term": "Chat-Intents",
+      "customXAxis": null,
+      "metrics": null,
+      "id": "cc8632258e-4cb0-4fb4-bdab-f531a7c623e2",
+      "timestamp": 1589811658096
+    },
+    {
+      "tableColumns": null,
+      "creatorUserID": "admin",
+      "chartProperties": {
+        "size": 10,
+        "offset": 0
+      },
+      "customYAxis": null,
+      "source": "fromPage",
+      "filters": [
+        {
+          "filter": "appName",
+          "filterValue": "com.aish.app",
+          "filterOperator": "equals",
+          "filterLabel": "Application Name",
+          "filterOperatorLabel": "Equals"
+        }
+      ],
+      "title": "PageFunnel_Aish",
+      "dest": "toPage",
+      "customEventType": "CustomData",
+      "customChartType": "FLOWCHART",
+      "term": "HomePage",
+      "customXAxis": null,
+      "metrics": null,
+      "id": "cc39ee084d-57b3-4315-8f7c-f87409d75dea",
+      "timestamp": 1589811658087
+    },
+    {
+      "tableColumns": null,
+      "creatorUserID": "admin",
+      "chartProperties": {
+        "size": 10,
+        "offset": 0
+      },
+      "customYAxis": null,
+      "source": "fromPage",
+      "filters": [
+        {
+          "filter": "appName",
+          "filterValue": "com.aish.app",
+          "filterOperator": "equals",
+          "filterLabel": "Application Name",
+          "filterOperatorLabel": "Equals"
+        }
+      ],
+      "title": "PageFunnel_Aish",
+      "dest": "toPage",
+      "customEventType": "CustomData",
+      "customChartType": "FLOWCHART",
+      "term": "HomePage",
+      "customXAxis": null,
+      "metrics": null,
+      "id": "ccdbe81296-460a-4a97-899e-dacd9630d521",
+      "timestamp": 1589811658076
+    },
+    {
+      "tableColumns": null,
+      "creatorUserID": "admin",
+      "chartProperties": {
+        "size": 10,
+        "offset": 0
+      },
+      "customYAxis": null,
+      "source": null,
+      "filters": [
+        {
+          "filter": "appName",
+          "filterValue": "com.aish.app",
+          "filterOperator": "equals",
+          "filterLabel": "Application Name",
+          "filterOperatorLabel": "Equals"
+        }
+      ],
+      "title": "ChatIntent_Aish",
+      "dest": null,
+      "customEventType": "CustomData",
+      "customChartType": "PIECHART",
+      "term": "Chat-Intents",
+      "customXAxis": null,
+      "metrics": null,
+      "id": "ccbb025941-f8f2-4129-95da-50e545d6d8c1",
+      "timestamp": 1589811658067
+    },
+    {
+      "tableColumns": null,
+      "creatorUserID": "admin",
+      "chartProperties": {
+        "size": 10,
+        "offset": 0
+      },
+      "customYAxis": null,
+      "source": null,
+      "filters": [
+        {
+          "filter": "appName",
+          "filterValue": "com.aish.app",
+          "filterOperator": "equals",
+          "filterLabel": "Application Name",
+          "filterOperatorLabel": "Equals"
+        }
+      ],
+      "title": "ChatIntent_Aish",
+      "dest": null,
+      "customEventType": "CustomData",
+      "customChartType": "PIECHART",
+      "term": "Chat-Intents",
+      "customXAxis": null,
+      "metrics": null,
+      "id": "cc4b9e458d-a3a6-4ff1-b325-ecee86b001d7",
+      "timestamp": 1589811658060
+    },
+    {
+      "tableColumns": null,
+      "creatorUserID": "admin",
+      "chartProperties": {
+        "size": 10,
+        "offset": 0
+      },
+      "customYAxis": null,
+      "source": "fromPage",
+      "filters": [
+        {
+          "filter": "appName",
+          "filterValue": "com.aish.app",
+          "filterOperator": "equals",
+          "filterLabel": "Application Name",
+          "filterOperatorLabel": "Equals"
+        }
+      ],
+      "title": "PageFunnel_Aish",
+      "dest": "toPage",
+      "customEventType": "CustomData",
+      "customChartType": "FLOWCHART",
+      "term": "HomePage",
+      "customXAxis": null,
+      "metrics": null,
+      "id": "ccc826d8ed-f01d-4d0a-bf0e-5f2b1f73ce22",
+      "timestamp": 1589811658048
+    },
+    {
+      "tableColumns": null,
+      "creatorUserID": "admin",
+      "chartProperties": {
+        "size": 10,
+        "offset": 0
+      },
+      "customYAxis": null,
+      "source": "fromPage",
+      "filters": [
+        {
+          "filter": "appName",
+          "filterValue": "com.aish.app",
+          "filterOperator": "equals",
+          "filterLabel": "Application Name",
+          "filterOperatorLabel": "Equals"
+        }
+      ],
+      "title": "PageFunnel_Aish",
+      "dest": "toPage",
+      "customEventType": "CustomData",
+      "customChartType": "FLOWCHART",
+      "term": "HomePage",
+      "customXAxis": null,
+      "metrics": null,
+      "id": "cc6ad49819-59f8-4120-a2ca-0a631ad2fc3b",
+      "timestamp": 1589811658039
+    },
+    {
+      "tableColumns": null,
+      "creatorUserID": "admin",
+      "chartProperties": {
+        "size": 10,
+        "offset": 0
+      },
+      "customYAxis": null,
+      "source": null,
+      "filters": [
+        {
+          "filter": "appName",
+          "filterValue": "com.aish.app",
+          "filterOperator": "equals",
+          "filterLabel": "Application Name",
+          "filterOperatorLabel": "Equals"
+        }
+      ],
+      "title": "ChatIntent_Aish",
+      "dest": null,
+      "customEventType": "CustomData",
+      "customChartType": "PIECHART",
+      "term": "Chat-Intents",
+      "customXAxis": null,
+      "metrics": null,
+      "id": "cc63aca928-5c96-4952-b380-11198de29bf4",
+      "timestamp": 1589811657997
+    },
+    {
+      "tableColumns": null,
+      "creatorUserID": "admin",
+      "chartProperties": {
+        "size": 10,
+        "offset": 0
+      },
+      "customYAxis": null,
+      "source": null,
+      "filters": [
+        {
+          "filter": "appName",
+          "filterValue": "com.aish.app",
+          "filterOperator": "equals",
+          "filterLabel": "Application Name",
+          "filterOperatorLabel": "Equals"
+        }
+      ],
+      "title": "ChatIntent_Aish",
+      "dest": null,
+      "customEventType": "CustomData",
+      "customChartType": "PIECHART",
+      "term": "Chat-Intents",
+      "customXAxis": null,
+      "metrics": null,
+      "id": "ccfcfb7102-5df8-4104-bc0e-a310bfd41414",
+      "timestamp": 1589811657989
+    },
+    {
+      "tableColumns": null,
+      "creatorUserID": "admin",
+      "chartProperties": {
+        "size": 10,
+        "offset": 0
+      },
+      "customYAxis": null,
+      "source": "fromPage",
+      "filters": [
+        {
+          "filter": "appName",
+          "filterValue": "com.aish.app",
+          "filterOperator": "equals",
+          "filterLabel": "Application Name",
+          "filterOperatorLabel": "Equals"
+        }
+      ],
+      "title": "PageFunnel_Aish",
+      "dest": "toPage",
+      "customEventType": "CustomData",
+      "customChartType": "FLOWCHART",
+      "term": "HomePage",
+      "customXAxis": null,
+      "metrics": null,
+      "id": "cc20e46479-ce5d-41ae-9014-d0953ce31df1",
+      "timestamp": 1589811657979
+    },
+    {
+      "tableColumns": null,
+      "creatorUserID": "admin",
+      "chartProperties": {
+        "size": 10,
+        "offset": 0
+      },
+      "customYAxis": null,
+      "source": "fromPage",
+      "filters": [
+        {
+          "filter": "appName",
+          "filterValue": "com.aish.app",
+          "filterOperator": "equals",
+          "filterLabel": "Application Name",
+          "filterOperatorLabel": "Equals"
+        }
+      ],
+      "title": "PageFunnel_Aish",
+      "dest": "toPage",
+      "customEventType": "CustomData",
+      "customChartType": "FLOWCHART",
+      "term": "HomePage",
+      "customXAxis": null,
+      "metrics": null,
+      "id": "cca1b27bbf-0555-46cc-91b7-eb096b54878e",
+      "timestamp": 1589811657970
+    },
+    {
+      "tableColumns": null,
+      "creatorUserID": "admin",
+      "chartProperties": {
+        "size": 10,
+        "offset": 0
+      },
+      "customYAxis": null,
+      "source": null,
+      "filters": [
+        {
+          "filter": "appName",
+          "filterValue": "com.aish.app",
+          "filterOperator": "equals",
+          "filterLabel": "Application Name",
+          "filterOperatorLabel": "Equals"
+        }
+      ],
+      "title": "ChatIntent_Aish",
+      "dest": null,
+      "customEventType": "CustomData",
+      "customChartType": "PIECHART",
+      "term": "Chat-Intents",
+      "customXAxis": null,
+      "metrics": null,
+      "id": "ccc8a3c596-7bcf-49c3-bc34-d74fd0302edc",
+      "timestamp": 1589811657963
+    },
+    {
+      "tableColumns": null,
+      "creatorUserID": "admin",
+      "chartProperties": {
+        "size": 10,
+        "offset": 0
+      },
+      "customYAxis": null,
+      "source": null,
+      "filters": [
+        {
+          "filter": "appName",
+          "filterValue": "com.aish.app",
+          "filterOperator": "equals",
+          "filterLabel": "Application Name",
+          "filterOperatorLabel": "Equals"
+        }
+      ],
+      "title": "ChatIntent_Aish",
+      "dest": null,
+      "customEventType": "CustomData",
+      "customChartType": "PIECHART",
+      "term": "Chat-Intents",
+      "customXAxis": null,
+      "metrics": null,
+      "id": "cca778e694-5f21-4898-9db9-e419ab8f8f7b",
+      "timestamp": 1589811657953
+    },
+    {
+      "tableColumns": null,
+      "creatorUserID": "admin",
+      "chartProperties": {
+        "size": 10,
+        "offset": 0
+      },
+      "customYAxis": null,
+      "source": "fromPage",
+      "filters": [
+        {
+          "filter": "appName",
+          "filterValue": "com.aish.app",
+          "filterOperator": "equals",
+          "filterLabel": "Application Name",
+          "filterOperatorLabel": "Equals"
+        }
+      ],
+      "title": "PageFunnel_Aish",
+      "dest": "toPage",
+      "customEventType": "CustomData",
+      "customChartType": "FLOWCHART",
+      "term": "HomePage",
+      "customXAxis": null,
+      "metrics": null,
+      "id": "cc59d92016-f1f3-4e84-a9f7-2414b1522ee1",
+      "timestamp": 1589811657942
+    },
+    {
+      "tableColumns": null,
+      "creatorUserID": "admin",
+      "chartProperties": {
+        "size": 10,
+        "offset": 0
+      },
+      "customYAxis": null,
+      "source": "fromPage",
+      "filters": [
+        {
+          "filter": "appName",
+          "filterValue": "com.aish.app",
+          "filterOperator": "equals",
+          "filterLabel": "Application Name",
+          "filterOperatorLabel": "Equals"
+        }
+      ],
+      "title": "PageFunnel_Aish",
+      "dest": "toPage",
+      "customEventType": "CustomData",
+      "customChartType": "FLOWCHART",
+      "term": "HomePage",
+      "customXAxis": null,
+      "metrics": null,
+      "id": "cc73e1ee22-371c-419f-94f6-c3b0fa0a996b",
+      "timestamp": 1589811657894
+    },
+    {
+      "tableColumns": null,
+      "creatorUserID": "admin",
+      "chartProperties": {
+        "size": 10,
+        "offset": 0
+      },
+      "customYAxis": null,
+      "source": null,
+      "filters": [
+        {
+          "filter": "appName",
+          "filterValue": "com.aish.app",
+          "filterOperator": "equals",
+          "filterLabel": "Application Name",
+          "filterOperatorLabel": "Equals"
+        }
+      ],
+      "title": "ChatIntent_Aish",
+      "dest": null,
+      "customEventType": "CustomData",
+      "customChartType": "PIECHART",
+      "term": "Chat-Intents",
+      "customXAxis": null,
+      "metrics": null,
+      "id": "cc55bbce79-669e-41b3-aba8-bd52e07d9317",
+      "timestamp": 1589811657874
+    },
+    {
+      "tableColumns": null,
+      "creatorUserID": "admin",
+      "chartProperties": {
+        "size": 10,
+        "offset": 0
+      },
+      "customYAxis": null,
+      "source": null,
+      "filters": [
+        {
+          "filter": "appName",
+          "filterValue": "com.aish.app",
+          "filterOperator": "equals",
+          "filterLabel": "Application Name",
+          "filterOperatorLabel": "Equals"
+        }
+      ],
+      "title": "ChatIntent_Aish",
+      "dest": null,
+      "customEventType": "CustomData",
+      "customChartType": "PIECHART",
+      "term": "Chat-Intents",
+      "customXAxis": null,
+      "metrics": null,
+      "id": "cc039233e9-2475-45b6-b4aa-0a051720437f",
+      "timestamp": 1589811657842
+    },
+    {
+      "tableColumns": null,
+      "creatorUserID": "admin",
+      "chartProperties": {
+        "size": 10,
+        "offset": 0
+      },
+      "customYAxis": null,
+      "source": "fromPage",
+      "filters": [
+        {
+          "filter": "appName",
+          "filterValue": "com.aish.app",
+          "filterOperator": "equals",
+          "filterLabel": "Application Name",
+          "filterOperatorLabel": "Equals"
+        }
+      ],
+      "title": "PageFunnel_Aish",
+      "dest": "toPage",
+      "customEventType": "CustomData",
+      "customChartType": "FLOWCHART",
+      "term": "HomePage",
+      "customXAxis": null,
+      "metrics": null,
+      "id": "ccd128e982-fbfb-42e6-90e7-17667acca765",
+      "timestamp": 1589811657816
+    },
+    {
+      "tableColumns": null,
+      "creatorUserID": "admin",
+      "chartProperties": {
+        "size": 10,
+        "offset": 0
+      },
+      "customYAxis": null,
+      "source": "fromPage",
+      "filters": [
+        {
+          "filter": "appName",
+          "filterValue": "com.aish.app",
+          "filterOperator": "equals",
+          "filterLabel": "Application Name",
+          "filterOperatorLabel": "Equals"
+        }
+      ],
+      "title": "PageFunnel_Aish",
+      "dest": "toPage",
+      "customEventType": "CustomData",
+      "customChartType": "FLOWCHART",
+      "term": "HomePage",
+      "customXAxis": null,
+      "metrics": null,
+      "id": "ccdb11a607-10e5-491e-a5c5-604bd27aa1ff",
+      "timestamp": 1589811657803
+    },
+    {
+      "tableColumns": null,
+      "creatorUserID": "admin",
+      "chartProperties": {
+        "size": 10,
+        "offset": 0
+      },
+      "customYAxis": null,
+      "source": null,
+      "filters": [
+        {
+          "filter": "appName",
+          "filterValue": "com.aish.app",
+          "filterOperator": "equals",
+          "filterLabel": "Application Name",
+          "filterOperatorLabel": "Equals"
+        }
+      ],
+      "title": "ChatIntent_Aish",
+      "dest": null,
+      "customEventType": "CustomData",
+      "customChartType": "PIECHART",
+      "term": "Chat-Intents",
+      "customXAxis": null,
+      "metrics": null,
+      "id": "cc4d606fa8-b611-4945-81c3-3e0142c18b01",
+      "timestamp": 1589811657792
+    },
+    {
+      "tableColumns": null,
+      "creatorUserID": "admin",
+      "chartProperties": {
+        "size": 10,
+        "offset": 0
+      },
+      "customYAxis": null,
+      "source": null,
+      "filters": [
+        {
+          "filter": "appName",
+          "filterValue": "com.aish.app",
+          "filterOperator": "equals",
+          "filterLabel": "Application Name",
+          "filterOperatorLabel": "Equals"
+        }
+      ],
+      "title": "ChatIntent_Aish",
+      "dest": null,
+      "customEventType": "CustomData",
+      "customChartType": "PIECHART",
+      "term": "Chat-Intents",
+      "customXAxis": null,
+      "metrics": null,
+      "id": "cccd7a061b-1b91-4eee-8c0d-ab10b63549a7",
+      "timestamp": 1589811657782
+    },
+    {
+      "tableColumns": null,
+      "creatorUserID": "admin",
+      "chartProperties": {
+        "size": 10,
+        "offset": 0
+      },
+      "customYAxis": null,
+      "source": "fromPage",
+      "filters": [
+        {
+          "filter": "appName",
+          "filterValue": "com.aish.app",
+          "filterOperator": "equals",
+          "filterLabel": "Application Name",
+          "filterOperatorLabel": "Equals"
+        }
+      ],
+      "title": "PageFunnel_Aish",
+      "dest": "toPage",
+      "customEventType": "CustomData",
+      "customChartType": "FLOWCHART",
+      "term": "HomePage",
+      "customXAxis": null,
+      "metrics": null,
+      "id": "cce96b954e-6b0f-47cd-8964-2ec73ea7a3da",
+      "timestamp": 1589811657771
+    },
+    {
+      "tableColumns": null,
+      "creatorUserID": "admin",
+      "chartProperties": {
+        "size": 10,
+        "offset": 0
+      },
+      "customYAxis": null,
+      "source": "fromPage",
+      "filters": [
+        {
+          "filter": "appName",
+          "filterValue": "com.aish.app",
+          "filterOperator": "equals",
+          "filterLabel": "Application Name",
+          "filterOperatorLabel": "Equals"
+        }
+      ],
+      "title": "PageFunnel_Aish",
+      "dest": "toPage",
+      "customEventType": "CustomData",
+      "customChartType": "FLOWCHART",
+      "term": "HomePage",
+      "customXAxis": null,
+      "metrics": null,
+      "id": "ccdf8dacc9-653b-4011-a474-3b869250a73e",
+      "timestamp": 1589811657760
+    },
+    {
+      "tableColumns": null,
+      "creatorUserID": "admin",
+      "chartProperties": {
+        "size": 10,
+        "offset": 0
+      },
+      "customYAxis": null,
+      "source": null,
+      "filters": [
+        {
+          "filter": "appName",
+          "filterValue": "com.aish.app",
+          "filterOperator": "equals",
+          "filterLabel": "Application Name",
+          "filterOperatorLabel": "Equals"
+        }
+      ],
+      "title": "ChatIntent_Aish",
+      "dest": null,
+      "customEventType": "CustomData",
+      "customChartType": "PIECHART",
+      "term": "Chat-Intents",
+      "customXAxis": null,
+      "metrics": null,
+      "id": "cce8a6f801-4a32-48aa-a8ae-44ef178c1979",
+      "timestamp": 1589811657751
+    },
+    {
+      "tableColumns": null,
+      "creatorUserID": "admin",
+      "chartProperties": {
+        "size": 10,
+        "offset": 0
+      },
+      "customYAxis": null,
+      "source": null,
+      "filters": [
+        {
+          "filter": "appName",
+          "filterValue": "com.aish.app",
+          "filterOperator": "equals",
+          "filterLabel": "Application Name",
+          "filterOperatorLabel": "Equals"
+        }
+      ],
+      "title": "ChatIntent_Aish",
+      "dest": null,
+      "customEventType": "CustomData",
+      "customChartType": "PIECHART",
+      "term": "Chat-Intents",
+      "customXAxis": null,
+      "metrics": null,
+      "id": "cc136d1138-c80f-4363-9e85-deedf5a6e2c6",
+      "timestamp": 1589811657742
+    },
+    {
+      "tableColumns": null,
+      "creatorUserID": "admin",
+      "chartProperties": {
+        "size": 10,
+        "offset": 0
+      },
+      "customYAxis": null,
+      "source": "fromPage",
+      "filters": [
+        {
+          "filter": "appName",
+          "filterValue": "com.aish.app",
+          "filterOperator": "equals",
+          "filterLabel": "Application Name",
+          "filterOperatorLabel": "Equals"
+        }
+      ],
+      "title": "PageFunnel_Aish",
+      "dest": "toPage",
+      "customEventType": "CustomData",
+      "customChartType": "FLOWCHART",
+      "term": "HomePage",
+      "customXAxis": null,
+      "metrics": null,
+      "id": "ccb998a0ec-6525-4543-bd02-e3424da9bf59",
+      "timestamp": 1589811657731
+    },
+    {
+      "tableColumns": null,
+      "creatorUserID": "admin",
+      "chartProperties": {
+        "size": 10,
+        "offset": 0
+      },
+      "customYAxis": null,
+      "source": "fromPage",
+      "filters": [
+        {
+          "filter": "appName",
+          "filterValue": "com.aish.app",
+          "filterOperator": "equals",
+          "filterLabel": "Application Name",
+          "filterOperatorLabel": "Equals"
+        }
+      ],
+      "title": "PageFunnel_Aish",
+      "dest": "toPage",
+      "customEventType": "CustomData",
+      "customChartType": "FLOWCHART",
+      "term": "HomePage",
+      "customXAxis": null,
+      "metrics": null,
+      "id": "cc270b86eb-1468-42f3-bf6b-a3decab3f6ce",
+      "timestamp": 1589811657720
+    },
+    {
+      "tableColumns": null,
+      "creatorUserID": "admin",
+      "chartProperties": {
+        "size": 10,
+        "offset": 0
+      },
+      "customYAxis": null,
+      "source": null,
+      "filters": [
+        {
+          "filter": "appName",
+          "filterValue": "com.aish.app",
+          "filterOperator": "equals",
+          "filterLabel": "Application Name",
+          "filterOperatorLabel": "Equals"
+        }
+      ],
+      "title": "ChatIntent_Aish",
+      "dest": null,
+      "customEventType": "CustomData",
+      "customChartType": "PIECHART",
+      "term": "Chat-Intents",
+      "customXAxis": null,
+      "metrics": null,
+      "id": "cc6e47dd47-72e4-44d0-9ae7-d3a844168a66",
+      "timestamp": 1589811657711
+    },
+    {
+      "tableColumns": null,
+      "creatorUserID": "admin",
+      "chartProperties": {
+        "size": 10,
+        "offset": 0
+      },
+      "customYAxis": null,
+      "source": null,
+      "filters": [
+        {
+          "filter": "appName",
+          "filterValue": "com.aish.app",
+          "filterOperator": "equals",
+          "filterLabel": "Application Name",
+          "filterOperatorLabel": "Equals"
+        }
+      ],
+      "title": "ChatIntent_Aish",
+      "dest": null,
+      "customEventType": "CustomData",
+      "customChartType": "PIECHART",
+      "term": "Chat-Intents",
+      "customXAxis": null,
+      "metrics": null,
+      "id": "cc86dc93a4-e266-48d6-a7fd-d40a65f81402",
+      "timestamp": 1589811657701
+    },
+    {
+      "tableColumns": null,
+      "creatorUserID": "admin",
+      "chartProperties": {
+        "size": 10,
+        "offset": 0
+      },
+      "customYAxis": null,
+      "source": "fromPage",
+      "filters": [
+        {
+          "filter": "appName",
+          "filterValue": "com.aish.app",
+          "filterOperator": "equals",
+          "filterLabel": "Application Name",
+          "filterOperatorLabel": "Equals"
+        }
+      ],
+      "title": "PageFunnel_Aish",
+      "dest": "toPage",
+      "customEventType": "CustomData",
+      "customChartType": "FLOWCHART",
+      "term": "HomePage",
+      "customXAxis": null,
+      "metrics": null,
+      "id": "cc3c9d211d-01e6-4bed-be7a-0e782b477e23",
+      "timestamp": 1589811657689
+    },
+    {
+      "tableColumns": null,
+      "creatorUserID": "admin",
+      "chartProperties": {
+        "size": 10,
+        "offset": 0
+      },
+      "customYAxis": null,
+      "source": "fromPage",
+      "filters": [
+        {
+          "filter": "appName",
+          "filterValue": "com.aish.app",
+          "filterOperator": "equals",
+          "filterLabel": "Application Name",
+          "filterOperatorLabel": "Equals"
+        }
+      ],
+      "title": "PageFunnel_Aish",
+      "dest": "toPage",
+      "customEventType": "CustomData",
+      "customChartType": "FLOWCHART",
+      "term": "HomePage",
+      "customXAxis": null,
+      "metrics": null,
+      "id": "cce9c302b1-faaf-47a4-a5ff-d4012bfc6b4f",
+      "timestamp": 1589811657677
+    },
+    {
+      "tableColumns": null,
+      "creatorUserID": "admin",
+      "chartProperties": {
+        "size": 10,
+        "offset": 0
+      },
+      "customYAxis": null,
+      "source": null,
+      "filters": [
+        {
+          "filter": "appName",
+          "filterValue": "com.aish.app",
+          "filterOperator": "equals",
+          "filterLabel": "Application Name",
+          "filterOperatorLabel": "Equals"
+        }
+      ],
+      "title": "ChatIntent_Aish",
+      "dest": null,
+      "customEventType": "CustomData",
+      "customChartType": "PIECHART",
+      "term": "Chat-Intents",
+      "customXAxis": null,
+      "metrics": null,
+      "id": "cc2947edd4-9010-4c88-b2c5-ce3562f46956",
+      "timestamp": 1589811657668
+    },
+    {
+      "tableColumns": null,
+      "creatorUserID": "admin",
+      "chartProperties": {
+        "size": 10,
+        "offset": 0
+      },
+      "customYAxis": null,
+      "source": null,
+      "filters": [
+        {
+          "filter": "appName",
+          "filterValue": "com.aish.app",
+          "filterOperator": "equals",
+          "filterLabel": "Application Name",
+          "filterOperatorLabel": "Equals"
+        }
+      ],
+      "title": "ChatIntent_Aish",
+      "dest": null,
+      "customEventType": "CustomData",
+      "customChartType": "PIECHART",
+      "term": "Chat-Intents",
+      "customXAxis": null,
+      "metrics": null,
+      "id": "cc97617b6d-5371-4a32-9b8b-3e65dc96e569",
+      "timestamp": 1589811657620
+    },
+    {
+      "tableColumns": null,
+      "creatorUserID": "admin",
+      "chartProperties": {
+        "size": 10,
+        "offset": 0
+      },
+      "customYAxis": null,
+      "source": "fromPage",
+      "filters": [
+        {
+          "filter": "appName",
+          "filterValue": "com.aish.app",
+          "filterOperator": "equals",
+          "filterLabel": "Application Name",
+          "filterOperatorLabel": "Equals"
+        }
+      ],
+      "title": "PageFunnel_Aish",
+      "dest": "toPage",
+      "customEventType": "CustomData",
+      "customChartType": "FLOWCHART",
+      "term": "HomePage",
+      "customXAxis": null,
+      "metrics": null,
+      "id": "cc9047690f-ff11-4fa5-95ea-783b2418a9a6",
+      "timestamp": 1589811657596
+    },
+    {
+      "tableColumns": null,
+      "creatorUserID": "admin",
+      "chartProperties": {
+        "size": 10,
+        "offset": 0
+      },
+      "customYAxis": null,
+      "source": "fromPage",
+      "filters": [
+        {
+          "filter": "appName",
+          "filterValue": "com.aish.app",
+          "filterOperator": "equals",
+          "filterLabel": "Application Name",
+          "filterOperatorLabel": "Equals"
+        }
+      ],
+      "title": "PageFunnel_Aish",
+      "dest": "toPage",
+      "customEventType": "CustomData",
+      "customChartType": "FLOWCHART",
+      "term": "HomePage",
+      "customXAxis": null,
+      "metrics": null,
+      "id": "cc5eb4d747-1dd4-4096-b29f-999362c7c7b7",
+      "timestamp": 1589811657574
+    },
+    {
+      "tableColumns": null,
+      "creatorUserID": "admin",
+      "chartProperties": {
+        "size": 10,
+        "offset": 0
+      },
+      "customYAxis": null,
+      "source": null,
+      "filters": [
+        {
+          "filter": "appName",
+          "filterValue": "com.aish.app",
+          "filterOperator": "equals",
+          "filterLabel": "Application Name",
+          "filterOperatorLabel": "Equals"
+        }
+      ],
+      "title": "ChatIntent_Aish",
+      "dest": null,
+      "customEventType": "CustomData",
+      "customChartType": "PIECHART",
+      "term": "Chat-Intents",
+      "customXAxis": null,
+      "metrics": null,
+      "id": "cc16f4ac67-cbef-449e-aed0-bf6dbc5c4d73",
+      "timestamp": 1589811657556
+    },
+    {
+      "tableColumns": null,
+      "creatorUserID": "admin",
+      "chartProperties": {
+        "size": 10,
+        "offset": 0
+      },
+      "customYAxis": null,
+      "source": null,
+      "filters": [
+        {
+          "filter": "appName",
+          "filterValue": "com.aish.app",
+          "filterOperator": "equals",
+          "filterLabel": "Application Name",
+          "filterOperatorLabel": "Equals"
+        }
+      ],
+      "title": "ChatIntent_Aish",
+      "dest": null,
+      "customEventType": "CustomData",
+      "customChartType": "PIECHART",
+      "term": "Chat-Intents",
+      "customXAxis": null,
+      "metrics": null,
+      "id": "ccf2297030-6ee8-4554-b0ee-4cbadbbd4de6",
+      "timestamp": 1589811657542
+    },
+    {
+      "tableColumns": null,
+      "creatorUserID": "admin",
+      "chartProperties": {
+        "size": 10,
+        "offset": 0
+      },
+      "customYAxis": null,
+      "source": "fromPage",
+      "filters": [
+        {
+          "filter": "appName",
+          "filterValue": "com.aish.app",
+          "filterOperator": "equals",
+          "filterLabel": "Application Name",
+          "filterOperatorLabel": "Equals"
+        }
+      ],
+      "title": "PageFunnel_Aish",
+      "dest": "toPage",
+      "customEventType": "CustomData",
+      "customChartType": "FLOWCHART",
+      "term": "HomePage",
+      "customXAxis": null,
+      "metrics": null,
+      "id": "cc4bbba075-d857-4a58-a83d-0441e0cf5ed6",
+      "timestamp": 1589811657525
+    },
+    {
+      "tableColumns": null,
+      "creatorUserID": "admin",
+      "chartProperties": {
+        "size": 10,
+        "offset": 0
+      },
+      "customYAxis": null,
+      "source": "fromPage",
+      "filters": [
+        {
+          "filter": "appName",
+          "filterValue": "com.aish.app",
+          "filterOperator": "equals",
+          "filterLabel": "Application Name",
+          "filterOperatorLabel": "Equals"
+        }
+      ],
+      "title": "PageFunnel_Aish",
+      "dest": "toPage",
+      "customEventType": "CustomData",
+      "customChartType": "FLOWCHART",
+      "term": "HomePage",
+      "customXAxis": null,
+      "metrics": null,
+      "id": "cc8e58d26d-4c30-4451-b031-8319a4a0065b",
+      "timestamp": 1589811657514
+    },
+    {
+      "tableColumns": null,
+      "creatorUserID": "admin",
+      "chartProperties": {
+        "size": 10,
+        "offset": 0
+      },
+      "customYAxis": null,
+      "source": null,
+      "filters": [
+        {
+          "filter": "appName",
+          "filterValue": "com.aish.app",
+          "filterOperator": "equals",
+          "filterLabel": "Application Name",
+          "filterOperatorLabel": "Equals"
+        }
+      ],
+      "title": "ChatIntent_Aish",
+      "dest": null,
+      "customEventType": "CustomData",
+      "customChartType": "PIECHART",
+      "term": "Chat-Intents",
+      "customXAxis": null,
+      "metrics": null,
+      "id": "ccab843b7a-1270-4966-9b44-ea1d69985cce",
+      "timestamp": 1589811657505
+    },
+    {
+      "tableColumns": null,
+      "creatorUserID": "admin",
+      "chartProperties": {
+        "size": 10,
+        "offset": 0
+      },
+      "customYAxis": null,
+      "source": null,
+      "filters": [
+        {
+          "filter": "appName",
+          "filterValue": "com.aish.app",
+          "filterOperator": "equals",
+          "filterLabel": "Application Name",
+          "filterOperatorLabel": "Equals"
+        }
+      ],
+      "title": "ChatIntent_Aish",
+      "dest": null,
+      "customEventType": "CustomData",
+      "customChartType": "PIECHART",
+      "term": "Chat-Intents",
+      "customXAxis": null,
+      "metrics": null,
+      "id": "ccee4ed22e-42e4-4d3d-8379-f0daef349a07",
+      "timestamp": 1589811657495
+    },
+    {
+      "tableColumns": null,
+      "creatorUserID": "admin",
+      "chartProperties": {
+        "size": 10,
+        "offset": 0
+      },
+      "customYAxis": null,
+      "source": "fromPage",
+      "filters": [
+        {
+          "filter": "appName",
+          "filterValue": "com.aish.app",
+          "filterOperator": "equals",
+          "filterLabel": "Application Name",
+          "filterOperatorLabel": "Equals"
+        }
+      ],
+      "title": "PageFunnel_Aish",
+      "dest": "toPage",
+      "customEventType": "CustomData",
+      "customChartType": "FLOWCHART",
+      "term": "HomePage",
+      "customXAxis": null,
+      "metrics": null,
+      "id": "cc05be8da6-6676-4b1a-9faf-df4c1dba5d40",
+      "timestamp": 1589811657484
+    },
+    {
+      "tableColumns": null,
+      "creatorUserID": "admin",
+      "chartProperties": {
+        "size": 10,
+        "offset": 0
+      },
+      "customYAxis": null,
+      "source": "fromPage",
+      "filters": [
+        {
+          "filter": "appName",
+          "filterValue": "com.aish.app",
+          "filterOperator": "equals",
+          "filterLabel": "Application Name",
+          "filterOperatorLabel": "Equals"
+        }
+      ],
+      "title": "PageFunnel_Aish",
+      "dest": "toPage",
+      "customEventType": "CustomData",
+      "customChartType": "FLOWCHART",
+      "term": "HomePage",
+      "customXAxis": null,
+      "metrics": null,
+      "id": "cc9dff7c8f-c21e-4b32-8966-3dd0517c42e8",
+      "timestamp": 1589811657474
+    },
+    {
+      "tableColumns": null,
+      "creatorUserID": "admin",
+      "chartProperties": {
+        "size": 10,
+        "offset": 0
+      },
+      "customYAxis": null,
+      "source": null,
+      "filters": [
+        {
+          "filter": "appName",
+          "filterValue": "com.aish.app",
+          "filterOperator": "equals",
+          "filterLabel": "Application Name",
+          "filterOperatorLabel": "Equals"
+        }
+      ],
+      "title": "ChatIntent_Aish",
+      "dest": null,
+      "customEventType": "CustomData",
+      "customChartType": "PIECHART",
+      "term": "Chat-Intents",
+      "customXAxis": null,
+      "metrics": null,
+      "id": "ccbbae214f-9dab-4ad0-9d82-f6d8e2d60cdf",
+      "timestamp": 1589811657465
+    },
+    {
+      "tableColumns": null,
+      "creatorUserID": "admin",
+      "chartProperties": {
+        "size": 10,
+        "offset": 0
+      },
+      "customYAxis": null,
+      "source": null,
+      "filters": [
+        {
+          "filter": "appName",
+          "filterValue": "com.aish.app",
+          "filterOperator": "equals",
+          "filterLabel": "Application Name",
+          "filterOperatorLabel": "Equals"
+        }
+      ],
+      "title": "ChatIntent_Aish",
+      "dest": null,
+      "customEventType": "CustomData",
+      "customChartType": "PIECHART",
+      "term": "Chat-Intents",
+      "customXAxis": null,
+      "metrics": null,
+      "id": "ccb7dad286-d6a4-4737-b2db-30eb5391ca1f",
+      "timestamp": 1589811657456
+    },
+    {
+      "tableColumns": null,
+      "creatorUserID": "admin",
+      "chartProperties": {
+        "size": 10,
+        "offset": 0
+      },
+      "customYAxis": null,
+      "source": "fromPage",
+      "filters": [
+        {
+          "filter": "appName",
+          "filterValue": "com.aish.app",
+          "filterOperator": "equals",
+          "filterLabel": "Application Name",
+          "filterOperatorLabel": "Equals"
+        }
+      ],
+      "title": "PageFunnel_Aish",
+      "dest": "toPage",
+      "customEventType": "CustomData",
+      "customChartType": "FLOWCHART",
+      "term": "HomePage",
+      "customXAxis": null,
+      "metrics": null,
+      "id": "ccee32dab1-585d-4371-89ba-f094dcd4c991",
+      "timestamp": 1589811657447
+    },
+    {
+      "tableColumns": null,
+      "creatorUserID": "admin",
+      "chartProperties": {
+        "size": 10,
+        "offset": 0
+      },
+      "customYAxis": null,
+      "source": "fromPage",
+      "filters": [
+        {
+          "filter": "appName",
+          "filterValue": "com.aish.app",
+          "filterOperator": "equals",
+          "filterLabel": "Application Name",
+          "filterOperatorLabel": "Equals"
+        }
+      ],
+      "title": "PageFunnel_Aish",
+      "dest": "toPage",
+      "customEventType": "CustomData",
+      "customChartType": "FLOWCHART",
+      "term": "HomePage",
+      "customXAxis": null,
+      "metrics": null,
+      "id": "ccd0e17731-6c65-42bc-9343-509fe1efa7e3",
+      "timestamp": 1589811657433
+    },
+    {
+      "tableColumns": null,
+      "creatorUserID": "admin",
+      "chartProperties": {
+        "size": 10,
+        "offset": 0
+      },
+      "customYAxis": null,
+      "source": null,
+      "filters": [
+        {
+          "filter": "appName",
+          "filterValue": "com.aish.app",
+          "filterOperator": "equals",
+          "filterLabel": "Application Name",
+          "filterOperatorLabel": "Equals"
+        }
+      ],
+      "title": "ChatIntent_Aish",
+      "dest": null,
+      "customEventType": "CustomData",
+      "customChartType": "PIECHART",
+      "term": "Chat-Intents",
+      "customXAxis": null,
+      "metrics": null,
+      "id": "cc18ac1a7a-ffd6-4cdd-ac17-110efa4697d1",
+      "timestamp": 1589811657405
+    },
+    {
+      "tableColumns": null,
+      "creatorUserID": "admin",
+      "chartProperties": {
+        "size": 10,
+        "offset": 0
+      },
+      "customYAxis": null,
+      "source": null,
+      "filters": [
+        {
+          "filter": "appName",
+          "filterValue": "com.aish.app",
+          "filterOperator": "equals",
+          "filterLabel": "Application Name",
+          "filterOperatorLabel": "Equals"
+        }
+      ],
+      "title": "ChatIntent_Aish",
+      "dest": null,
+      "customEventType": "CustomData",
+      "customChartType": "PIECHART",
+      "term": "Chat-Intents",
+      "customXAxis": null,
+      "metrics": null,
+      "id": "cc8df94516-5348-4b12-91b0-a734fe1f50b0",
+      "timestamp": 1589811657395
+    },
+    {
+      "tableColumns": null,
+      "creatorUserID": "admin",
+      "chartProperties": {
+        "size": 10,
+        "offset": 0
+      },
+      "customYAxis": null,
+      "source": "fromPage",
+      "filters": [
+        {
+          "filter": "appName",
+          "filterValue": "com.aish.app",
+          "filterOperator": "equals",
+          "filterLabel": "Application Name",
+          "filterOperatorLabel": "Equals"
+        }
+      ],
+      "title": "PageFunnel_Aish",
+      "dest": "toPage",
+      "customEventType": "CustomData",
+      "customChartType": "FLOWCHART",
+      "term": "HomePage",
+      "customXAxis": null,
+      "metrics": null,
+      "id": "ccbe10a2be-babe-46d0-aafe-c635463a41bf",
+      "timestamp": 1589811657377
+    },
+    {
+      "tableColumns": null,
+      "creatorUserID": "admin",
+      "chartProperties": {
+        "size": 10,
+        "offset": 0
+      },
+      "customYAxis": null,
+      "source": "fromPage",
+      "filters": [
+        {
+          "filter": "appName",
+          "filterValue": "com.aish.app",
+          "filterOperator": "equals",
+          "filterLabel": "Application Name",
+          "filterOperatorLabel": "Equals"
+        }
+      ],
+      "title": "PageFunnel_Aish",
+      "dest": "toPage",
+      "customEventType": "CustomData",
+      "customChartType": "FLOWCHART",
+      "term": "HomePage",
+      "customXAxis": null,
+      "metrics": null,
+      "id": "ccb10c30aa-45a4-411c-8624-c785b63a43bd",
+      "timestamp": 1589811657366
+    },
+    {
+      "tableColumns": null,
+      "creatorUserID": "admin",
+      "chartProperties": {
+        "size": 10,
+        "offset": 0
+      },
+      "customYAxis": null,
+      "source": null,
+      "filters": [
+        {
+          "filter": "appName",
+          "filterValue": "com.aish.app",
+          "filterOperator": "equals",
+          "filterLabel": "Application Name",
+          "filterOperatorLabel": "Equals"
+        }
+      ],
+      "title": "ChatIntent_Aish",
+      "dest": null,
+      "customEventType": "CustomData",
+      "customChartType": "PIECHART",
+      "term": "Chat-Intents",
+      "customXAxis": null,
+      "metrics": null,
+      "id": "cc4ef5c912-4bfa-4852-a4f3-4a106ee1d042",
+      "timestamp": 1589811657357
+    },
+    {
+      "tableColumns": null,
+      "creatorUserID": "admin",
+      "chartProperties": {
+        "size": 10,
+        "offset": 0
+      },
+      "customYAxis": null,
+      "source": null,
+      "filters": [
+        {
+          "filter": "appName",
+          "filterValue": "com.aish.app",
+          "filterOperator": "equals",
+          "filterLabel": "Application Name",
+          "filterOperatorLabel": "Equals"
+        }
+      ],
+      "title": "ChatIntent_Aish",
+      "dest": null,
+      "customEventType": "CustomData",
+      "customChartType": "PIECHART",
+      "term": "Chat-Intents",
+      "customXAxis": null,
+      "metrics": null,
+      "id": "ccd97c64ea-334a-465a-b2d2-ffd0e9946b18",
+      "timestamp": 1589811657342
+    },
+    {
+      "tableColumns": null,
+      "creatorUserID": "admin",
+      "chartProperties": {
+        "size": 10,
+        "offset": 0
+      },
+      "customYAxis": null,
+      "source": "fromPage",
+      "filters": [
+        {
+          "filter": "appName",
+          "filterValue": "com.aish.app",
+          "filterOperator": "equals",
+          "filterLabel": "Application Name",
+          "filterOperatorLabel": "Equals"
+        }
+      ],
+      "title": "PageFunnel_Aish",
+      "dest": "toPage",
+      "customEventType": "CustomData",
+      "customChartType": "FLOWCHART",
+      "term": "HomePage",
+      "customXAxis": null,
+      "metrics": null,
+      "id": "cc42dae947-8f47-42d4-8fdd-a8c41fd2c9b9",
+      "timestamp": 1589811657322
+    },
+    {
+      "tableColumns": null,
+      "creatorUserID": "admin",
+      "chartProperties": {
+        "size": 10,
+        "offset": 0
+      },
+      "customYAxis": null,
+      "source": "fromPage",
+      "filters": [
+        {
+          "filter": "appName",
+          "filterValue": "com.aish.app",
+          "filterOperator": "equals",
+          "filterLabel": "Application Name",
+          "filterOperatorLabel": "Equals"
+        }
+      ],
+      "title": "PageFunnel_Aish",
+      "dest": "toPage",
+      "customEventType": "CustomData",
+      "customChartType": "FLOWCHART",
+      "term": "HomePage",
+      "customXAxis": null,
+      "metrics": null,
+      "id": "cc5a131825-5b09-4e5d-ba9d-8d160caaa805",
+      "timestamp": 1589811657304
+    },
+    {
+      "tableColumns": null,
+      "creatorUserID": "admin",
+      "chartProperties": {
+        "size": 10,
+        "offset": 0
+      },
+      "customYAxis": null,
+      "source": null,
+      "filters": [
+        {
+          "filter": "appName",
+          "filterValue": "com.aish.app",
+          "filterOperator": "equals",
+          "filterLabel": "Application Name",
+          "filterOperatorLabel": "Equals"
+        }
+      ],
+      "title": "ChatIntent_Aish",
+      "dest": null,
+      "customEventType": "CustomData",
+      "customChartType": "PIECHART",
+      "term": "Chat-Intents",
+      "customXAxis": null,
+      "metrics": null,
+      "id": "ccff4ae21d-84f4-4e0f-a569-1cc2c080b4bf",
+      "timestamp": 1589811657295
+    },
+    {
+      "tableColumns": null,
+      "creatorUserID": "admin",
+      "chartProperties": {
+        "size": 10,
+        "offset": 0
+      },
+      "customYAxis": null,
+      "source": null,
+      "filters": [
+        {
+          "filter": "appName",
+          "filterValue": "com.aish.app",
+          "filterOperator": "equals",
+          "filterLabel": "Application Name",
+          "filterOperatorLabel": "Equals"
+        }
+      ],
+      "title": "ChatIntent_Aish",
+      "dest": null,
+      "customEventType": "CustomData",
+      "customChartType": "PIECHART",
+      "term": "Chat-Intents",
+      "customXAxis": null,
+      "metrics": null,
+      "id": "ccb1240c0f-d2a0-41c6-b4ff-af024b311506",
+      "timestamp": 1589811657284
+    },
+    {
+      "tableColumns": null,
+      "creatorUserID": "admin",
+      "chartProperties": {
+        "size": 10,
+        "offset": 0
+      },
+      "customYAxis": null,
+      "source": "fromPage",
+      "filters": [
+        {
+          "filter": "appName",
+          "filterValue": "com.aish.app",
+          "filterOperator": "equals",
+          "filterLabel": "Application Name",
+          "filterOperatorLabel": "Equals"
+        }
+      ],
+      "title": "PageFunnel_Aish",
+      "dest": "toPage",
+      "customEventType": "CustomData",
+      "customChartType": "FLOWCHART",
+      "term": "HomePage",
+      "customXAxis": null,
+      "metrics": null,
+      "id": "cc099642a8-b504-481e-8301-b5bf91139d49",
+      "timestamp": 1589811657270
+    },
+    {
+      "tableColumns": null,
+      "creatorUserID": "admin",
+      "chartProperties": {
+        "size": 10,
+        "offset": 0
+      },
+      "customYAxis": null,
+      "source": "fromPage",
+      "filters": [
+        {
+          "filter": "appName",
+          "filterValue": "com.aish.app",
+          "filterOperator": "equals",
+          "filterLabel": "Application Name",
+          "filterOperatorLabel": "Equals"
+        }
+      ],
+      "title": "PageFunnel_Aish",
+      "dest": "toPage",
+      "customEventType": "CustomData",
+      "customChartType": "FLOWCHART",
+      "term": "HomePage",
+      "customXAxis": null,
+      "metrics": null,
+      "id": "ccce0d4411-568a-4c16-8e09-a124f2f4b75e",
+      "timestamp": 1589811657252
+    },
+    {
+      "tableColumns": null,
+      "creatorUserID": "admin",
+      "chartProperties": {
+        "size": 10,
+        "offset": 0
+      },
+      "customYAxis": null,
+      "source": null,
+      "filters": [
+        {
+          "filter": "appName",
+          "filterValue": "com.aish.app",
+          "filterOperator": "equals",
+          "filterLabel": "Application Name",
+          "filterOperatorLabel": "Equals"
+        }
+      ],
+      "title": "ChatIntent_Aish",
+      "dest": null,
+      "customEventType": "CustomData",
+      "customChartType": "PIECHART",
+      "term": "Chat-Intents",
+      "customXAxis": null,
+      "metrics": null,
+      "id": "cc961aa362-f241-47e1-ae3b-e5c76506d2e9",
+      "timestamp": 1589811657230
+    },
+    {
+      "tableColumns": null,
+      "creatorUserID": "admin",
+      "chartProperties": {
+        "size": 10,
+        "offset": 0
+      },
+      "customYAxis": null,
+      "source": null,
+      "filters": [
+        {
+          "filter": "appName",
+          "filterValue": "com.aish.app",
+          "filterOperator": "equals",
+          "filterLabel": "Application Name",
+          "filterOperatorLabel": "Equals"
+        }
+      ],
+      "title": "ChatIntent_Aish",
+      "dest": null,
+      "customEventType": "CustomData",
+      "customChartType": "PIECHART",
+      "term": "Chat-Intents",
+      "customXAxis": null,
+      "metrics": null,
+      "id": "ccb1047696-060d-4655-8cd9-3c7866d416f6",
+      "timestamp": 1589811657221
+    },
+    {
+      "tableColumns": null,
+      "creatorUserID": "admin",
+      "chartProperties": {
+        "size": 10,
+        "offset": 0
+      },
+      "customYAxis": null,
+      "source": "fromPage",
+      "filters": [
+        {
+          "filter": "appName",
+          "filterValue": "com.aish.app",
+          "filterOperator": "equals",
+          "filterLabel": "Application Name",
+          "filterOperatorLabel": "Equals"
+        }
+      ],
+      "title": "PageFunnel_Aish",
+      "dest": "toPage",
+      "customEventType": "CustomData",
+      "customChartType": "FLOWCHART",
+      "term": "HomePage",
+      "customXAxis": null,
+      "metrics": null,
+      "id": "cc0468ceb3-7d63-4b1b-9f90-caee1493923b",
+      "timestamp": 1589811657209
+    },
+    {
+      "tableColumns": null,
+      "creatorUserID": "admin",
+      "chartProperties": {
+        "size": 10,
+        "offset": 0
+      },
+      "customYAxis": null,
+      "source": "fromPage",
+      "filters": [
+        {
+          "filter": "appName",
+          "filterValue": "com.aish.app",
+          "filterOperator": "equals",
+          "filterLabel": "Application Name",
+          "filterOperatorLabel": "Equals"
+        }
+      ],
+      "title": "PageFunnel_Aish",
+      "dest": "toPage",
+      "customEventType": "CustomData",
+      "customChartType": "FLOWCHART",
+      "term": "HomePage",
+      "customXAxis": null,
+      "metrics": null,
+      "id": "ccf3cfc594-0adb-48fe-b1b0-3c51de5930ad",
+      "timestamp": 1589811657183
+    },
+    {
+      "tableColumns": null,
+      "creatorUserID": "admin",
+      "chartProperties": {
+        "size": 10,
+        "offset": 0
+      },
+      "customYAxis": null,
+      "source": null,
+      "filters": [
+        {
+          "filter": "appName",
+          "filterValue": "com.aish.app",
+          "filterOperator": "equals",
+          "filterLabel": "Application Name",
+          "filterOperatorLabel": "Equals"
+        }
+      ],
+      "title": "ChatIntent_Aish",
+      "dest": null,
+      "customEventType": "CustomData",
+      "customChartType": "PIECHART",
+      "term": "Chat-Intents",
+      "customXAxis": null,
+      "metrics": null,
+      "id": "cc2e227cc8-2eda-4ae3-8cb1-7a110e799cff",
+      "timestamp": 1589811657165
+    },
+    {
+      "tableColumns": null,
+      "creatorUserID": "admin",
+      "chartProperties": {
+        "size": 10,
+        "offset": 0
+      },
+      "customYAxis": null,
+      "source": null,
+      "filters": [
+        {
+          "filter": "appName",
+          "filterValue": "com.aish.app",
+          "filterOperator": "equals",
+          "filterLabel": "Application Name",
+          "filterOperatorLabel": "Equals"
+        }
+      ],
+      "title": "ChatIntent_Aish",
+      "dest": null,
+      "customEventType": "CustomData",
+      "customChartType": "PIECHART",
+      "term": "Chat-Intents",
+      "customXAxis": null,
+      "metrics": null,
+      "id": "cc19985175-4ba5-4574-99aa-4a3d36af1795",
+      "timestamp": 1589811657146
+    },
+    {
+      "tableColumns": null,
+      "creatorUserID": "admin",
+      "chartProperties": {
+        "size": 10,
+        "offset": 0
+      },
+      "customYAxis": null,
+      "source": "fromPage",
+      "filters": [
+        {
+          "filter": "appName",
+          "filterValue": "com.aish.app",
+          "filterOperator": "equals",
+          "filterLabel": "Application Name",
+          "filterOperatorLabel": "Equals"
+        }
+      ],
+      "title": "PageFunnel_Aish",
+      "dest": "toPage",
+      "customEventType": "CustomData",
+      "customChartType": "FLOWCHART",
+      "term": "HomePage",
+      "customXAxis": null,
+      "metrics": null,
+      "id": "ccf9a55fe3-1066-4e15-bd42-1450c1d9b649",
+      "timestamp": 1589811657126
+    },
+    {
+      "tableColumns": null,
+      "creatorUserID": "admin",
+      "chartProperties": {
+        "size": 10,
+        "offset": 0
+      },
+      "customYAxis": null,
+      "source": "fromPage",
+      "filters": [
+        {
+          "filter": "appName",
+          "filterValue": "com.aish.app",
+          "filterOperator": "equals",
+          "filterLabel": "Application Name",
+          "filterOperatorLabel": "Equals"
+        }
+      ],
+      "title": "PageFunnel_Aish",
+      "dest": "toPage",
+      "customEventType": "CustomData",
+      "customChartType": "FLOWCHART",
+      "term": "HomePage",
+      "customXAxis": null,
+      "metrics": null,
+      "id": "cc4d80a3e1-c958-4364-9527-10d974e0b2ce",
+      "timestamp": 1589811657111
+    },
+    {
+      "tableColumns": null,
+      "creatorUserID": "admin",
+      "chartProperties": {
+        "size": 10,
+        "offset": 0
+      },
+      "customYAxis": null,
+      "source": null,
+      "filters": [
+        {
+          "filter": "appName",
+          "filterValue": "com.aish.app",
+          "filterOperator": "equals",
+          "filterLabel": "Application Name",
+          "filterOperatorLabel": "Equals"
+        }
+      ],
+      "title": "ChatIntent_Aish",
+      "dest": null,
+      "customEventType": "CustomData",
+      "customChartType": "PIECHART",
+      "term": "Chat-Intents",
+      "customXAxis": null,
+      "metrics": null,
+      "id": "ccd1d0afd4-6983-44a5-a498-89ee4fa3ebe4",
+      "timestamp": 1589811657085
+    },
+    {
+      "tableColumns": null,
+      "creatorUserID": "admin",
+      "chartProperties": {
+        "size": 10,
+        "offset": 0
+      },
+      "customYAxis": null,
+      "source": null,
+      "filters": [
+        {
+          "filter": "appName",
+          "filterValue": "com.aish.app",
+          "filterOperator": "equals",
+          "filterLabel": "Application Name",
+          "filterOperatorLabel": "Equals"
+        }
+      ],
+      "title": "ChatIntent_Aish",
+      "dest": null,
+      "customEventType": "CustomData",
+      "customChartType": "PIECHART",
+      "term": "Chat-Intents",
+      "customXAxis": null,
+      "metrics": null,
+      "id": "ccaa190bd5-f66a-41cf-9f35-396d87d91904",
+      "timestamp": 1589811657024
+    },
+    {
+      "tableColumns": null,
+      "creatorUserID": "admin",
+      "chartProperties": {
+        "size": 10,
+        "offset": 0
+      },
+      "customYAxis": null,
+      "source": "fromPage",
+      "filters": [
+        {
+          "filter": "appName",
+          "filterValue": "com.aish.app",
+          "filterOperator": "equals",
+          "filterLabel": "Application Name",
+          "filterOperatorLabel": "Equals"
+        }
+      ],
+      "title": "PageFunnel_Aish",
+      "dest": "toPage",
+      "customEventType": "CustomData",
+      "customChartType": "FLOWCHART",
+      "term": "HomePage",
+      "customXAxis": null,
+      "metrics": null,
+      "id": "cc0d7648ff-dc38-4bee-9761-adc4b679e607",
+      "timestamp": 1589811656994
+    },
+    {
+      "tableColumns": null,
+      "creatorUserID": "admin",
+      "chartProperties": {
+        "size": 10,
+        "offset": 0
+      },
+      "customYAxis": null,
+      "source": "fromPage",
+      "filters": [
+        {
+          "filter": "appName",
+          "filterValue": "com.aish.app",
+          "filterOperator": "equals",
+          "filterLabel": "Application Name",
+          "filterOperatorLabel": "Equals"
+        }
+      ],
+      "title": "PageFunnel_Aish",
+      "dest": "toPage",
+      "customEventType": "CustomData",
+      "customChartType": "FLOWCHART",
+      "term": "HomePage",
+      "customXAxis": null,
+      "metrics": null,
+      "id": "cc61acd027-2bf4-4c54-ad81-bc4f47ecc265",
+      "timestamp": 1589811656912
+    },
+    {
+      "tableColumns": null,
+      "creatorUserID": "admin",
+      "chartProperties": {
+        "size": 10,
+        "offset": 0
+      },
+      "customYAxis": null,
+      "source": null,
+      "filters": [
+        {
+          "filter": "appName",
+          "filterValue": "com.aish.app",
+          "filterOperator": "equals",
+          "filterLabel": "Application Name",
+          "filterOperatorLabel": "Equals"
+        }
+      ],
+      "title": "ChatIntent_Aish",
+      "dest": null,
+      "customEventType": "CustomData",
+      "customChartType": "PIECHART",
+      "term": "Chat-Intents",
+      "customXAxis": null,
+      "metrics": null,
+      "id": "ccca9b3d55-6b18-4aba-87a3-cacd3bf6753c",
+      "timestamp": 1589811656877
+    },
+    {
+      "tableColumns": null,
+      "creatorUserID": "admin",
+      "chartProperties": {
+        "size": 10,
+        "offset": 0
+      },
+      "customYAxis": null,
+      "source": null,
+      "filters": [
+        {
+          "filter": "appName",
+          "filterValue": "com.aish.app",
+          "filterOperator": "equals",
+          "filterLabel": "Application Name",
+          "filterOperatorLabel": "Equals"
+        }
+      ],
+      "title": "ChatIntent_Aish",
+      "dest": null,
+      "customEventType": "CustomData",
+      "customChartType": "PIECHART",
+      "term": "Chat-Intents",
+      "customXAxis": null,
+      "metrics": null,
+      "id": "ccca639628-824e-4788-9824-d0d91420c3d8",
+      "timestamp": 1589811656862
+    },
+    {
+      "tableColumns": null,
+      "creatorUserID": "admin",
+      "chartProperties": {
+        "size": 10,
+        "offset": 0
+      },
+      "customYAxis": null,
+      "source": "fromPage",
+      "filters": [
+        {
+          "filter": "appName",
+          "filterValue": "com.aish.app",
+          "filterOperator": "equals",
+          "filterLabel": "Application Name",
+          "filterOperatorLabel": "Equals"
+        }
+      ],
+      "title": "PageFunnel_Aish",
+      "dest": "toPage",
+      "customEventType": "CustomData",
+      "customChartType": "FLOWCHART",
+      "term": "HomePage",
+      "customXAxis": null,
+      "metrics": null,
+      "id": "cc0e3e5583-f971-4fae-ba04-51690c9fbf4b",
+      "timestamp": 1589811656848
+    },
+    {
+      "tableColumns": null,
+      "creatorUserID": "admin",
+      "chartProperties": {
+        "size": 10,
+        "offset": 0
+      },
+      "customYAxis": null,
+      "source": "fromPage",
+      "filters": [
+        {
+          "filter": "appName",
+          "filterValue": "com.aish.app",
+          "filterOperator": "equals",
+          "filterLabel": "Application Name",
+          "filterOperatorLabel": "Equals"
+        }
+      ],
+      "title": "PageFunnel_Aish",
+      "dest": "toPage",
+      "customEventType": "CustomData",
+      "customChartType": "FLOWCHART",
+      "term": "HomePage",
+      "customXAxis": null,
+      "metrics": null,
+      "id": "cc47e1734c-c79e-4622-823a-3a1146f5c233",
+      "timestamp": 1589811656832
+    },
+    {
+      "tableColumns": null,
+      "creatorUserID": "admin",
+      "chartProperties": {
+        "size": 10,
+        "offset": 0
+      },
+      "customYAxis": null,
+      "source": null,
+      "filters": [
+        {
+          "filter": "appName",
+          "filterValue": "com.aish.app",
+          "filterOperator": "equals",
+          "filterLabel": "Application Name",
+          "filterOperatorLabel": "Equals"
+        }
+      ],
+      "title": "ChatIntent_Aish",
+      "dest": null,
+      "customEventType": "CustomData",
+      "customChartType": "PIECHART",
+      "term": "Chat-Intents",
+      "customXAxis": null,
+      "metrics": null,
+      "id": "ccbb43bbc3-dec3-4899-82d2-dbb8ea733aa8",
+      "timestamp": 1589811656821
+    },
+    {
+      "tableColumns": null,
+      "creatorUserID": "admin",
+      "chartProperties": {
+        "size": 10,
+        "offset": 0
+      },
+      "customYAxis": null,
+      "source": null,
+      "filters": [
+        {
+          "filter": "appName",
+          "filterValue": "com.aish.app",
+          "filterOperator": "equals",
+          "filterLabel": "Application Name",
+          "filterOperatorLabel": "Equals"
+        }
+      ],
+      "title": "ChatIntent_Aish",
+      "dest": null,
+      "customEventType": "CustomData",
+      "customChartType": "PIECHART",
+      "term": "Chat-Intents",
+      "customXAxis": null,
+      "metrics": null,
+      "id": "cc1bad8b2d-7345-453f-9ca3-a7df9b8892be",
+      "timestamp": 1589811656811
+    },
+    {
+      "tableColumns": null,
+      "creatorUserID": "admin",
+      "chartProperties": {
+        "size": 10,
+        "offset": 0
+      },
+      "customYAxis": null,
+      "source": "fromPage",
+      "filters": [
+        {
+          "filter": "appName",
+          "filterValue": "com.aish.app",
+          "filterOperator": "equals",
+          "filterLabel": "Application Name",
+          "filterOperatorLabel": "Equals"
+        }
+      ],
+      "title": "PageFunnel_Aish",
+      "dest": "toPage",
+      "customEventType": "CustomData",
+      "customChartType": "FLOWCHART",
+      "term": "HomePage",
+      "customXAxis": null,
+      "metrics": null,
+      "id": "cc856cf97d-b8d2-4178-97a3-3f854888a9a3",
+      "timestamp": 1589811656798
+    },
+    {
+      "tableColumns": null,
+      "creatorUserID": "admin",
+      "chartProperties": {
+        "size": 10,
+        "offset": 0
+      },
+      "customYAxis": null,
+      "source": "fromPage",
+      "filters": [
+        {
+          "filter": "appName",
+          "filterValue": "com.aish.app",
+          "filterOperator": "equals",
+          "filterLabel": "Application Name",
+          "filterOperatorLabel": "Equals"
+        }
+      ],
+      "title": "PageFunnel_Aish",
+      "dest": "toPage",
+      "customEventType": "CustomData",
+      "customChartType": "FLOWCHART",
+      "term": "HomePage",
+      "customXAxis": null,
+      "metrics": null,
+      "id": "cc9668a75a-d138-41df-a85d-0fd966ac5807",
+      "timestamp": 1589811656782
+    },
+    {
+      "tableColumns": null,
+      "creatorUserID": "admin",
+      "chartProperties": {
+        "size": 10,
+        "offset": 0
+      },
+      "customYAxis": null,
+      "source": null,
+      "filters": [
+        {
+          "filter": "appName",
+          "filterValue": "com.aish.app",
+          "filterOperator": "equals",
+          "filterLabel": "Application Name",
+          "filterOperatorLabel": "Equals"
+        }
+      ],
+      "title": "ChatIntent_Aish",
+      "dest": null,
+      "customEventType": "CustomData",
+      "customChartType": "PIECHART",
+      "term": "Chat-Intents",
+      "customXAxis": null,
+      "metrics": null,
+      "id": "cc99a22c05-2b7d-401a-8b37-ad9fe70141e7",
+      "timestamp": 1589811656770
+    },
+    {
+      "tableColumns": null,
+      "creatorUserID": "admin",
+      "chartProperties": {
+        "size": 10,
+        "offset": 0
+      },
+      "customYAxis": null,
+      "source": null,
+      "filters": [
+        {
+          "filter": "appName",
+          "filterValue": "com.aish.app",
+          "filterOperator": "equals",
+          "filterLabel": "Application Name",
+          "filterOperatorLabel": "Equals"
+        }
+      ],
+      "title": "ChatIntent_Aish",
+      "dest": null,
+      "customEventType": "CustomData",
+      "customChartType": "PIECHART",
+      "term": "Chat-Intents",
+      "customXAxis": null,
+      "metrics": null,
+      "id": "cc46ef7815-15bc-4b5c-bfd6-b6e3e41c07fe",
+      "timestamp": 1589811656760
+    },
+    {
+      "tableColumns": null,
+      "creatorUserID": "admin",
+      "chartProperties": {
+        "size": 10,
+        "offset": 0
+      },
+      "customYAxis": null,
+      "source": "fromPage",
+      "filters": [
+        {
+          "filter": "appName",
+          "filterValue": "com.aish.app",
+          "filterOperator": "equals",
+          "filterLabel": "Application Name",
+          "filterOperatorLabel": "Equals"
+        }
+      ],
+      "title": "PageFunnel_Aish",
+      "dest": "toPage",
+      "customEventType": "CustomData",
+      "customChartType": "FLOWCHART",
+      "term": "HomePage",
+      "customXAxis": null,
+      "metrics": null,
+      "id": "cc22985b9d-e1b7-4584-93ae-ad7890cff6a3",
+      "timestamp": 1589811656746
+    },
+    {
+      "tableColumns": null,
+      "creatorUserID": "admin",
+      "chartProperties": {
+        "size": 10,
+        "offset": 0
+      },
+      "customYAxis": null,
+      "source": "fromPage",
+      "filters": [
+        {
+          "filter": "appName",
+          "filterValue": "com.aish.app",
+          "filterOperator": "equals",
+          "filterLabel": "Application Name",
+          "filterOperatorLabel": "Equals"
+        }
+      ],
+      "title": "PageFunnel_Aish",
+      "dest": "toPage",
+      "customEventType": "CustomData",
+      "customChartType": "FLOWCHART",
+      "term": "HomePage",
+      "customXAxis": null,
+      "metrics": null,
+      "id": "cc2c47da5f-0714-426f-93ae-a703a8ed5273",
+      "timestamp": 1589811656731
+    },
+    {
+      "tableColumns": null,
+      "creatorUserID": "admin",
+      "chartProperties": {
+        "size": 10,
+        "offset": 0
+      },
+      "customYAxis": null,
+      "source": null,
+      "filters": [
+        {
+          "filter": "appName",
+          "filterValue": "com.aish.app",
+          "filterOperator": "equals",
+          "filterLabel": "Application Name",
+          "filterOperatorLabel": "Equals"
+        }
+      ],
+      "title": "ChatIntent_Aish",
+      "dest": null,
+      "customEventType": "CustomData",
+      "customChartType": "PIECHART",
+      "term": "Chat-Intents",
+      "customXAxis": null,
+      "metrics": null,
+      "id": "ccce365626-6c8e-4e40-b210-c72d951eb1e3",
+      "timestamp": 1589811656720
+    },
+    {
+      "tableColumns": null,
+      "creatorUserID": "admin",
+      "chartProperties": {
+        "size": 10,
+        "offset": 0
+      },
+      "customYAxis": null,
+      "source": null,
+      "filters": [
+        {
+          "filter": "appName",
+          "filterValue": "com.aish.app",
+          "filterOperator": "equals",
+          "filterLabel": "Application Name",
+          "filterOperatorLabel": "Equals"
+        }
+      ],
+      "title": "ChatIntent_Aish",
+      "dest": null,
+      "customEventType": "CustomData",
+      "customChartType": "PIECHART",
+      "term": "Chat-Intents",
+      "customXAxis": null,
+      "metrics": null,
+      "id": "cca370e7f5-ee8e-48dd-ae74-c658bd01b54f",
+      "timestamp": 1589811656710
+    },
+    {
+      "tableColumns": null,
+      "creatorUserID": "admin",
+      "chartProperties": {
+        "size": 10,
+        "offset": 0
+      },
+      "customYAxis": null,
+      "source": "fromPage",
+      "filters": [
+        {
+          "filter": "appName",
+          "filterValue": "com.aish.app",
+          "filterOperator": "equals",
+          "filterLabel": "Application Name",
+          "filterOperatorLabel": "Equals"
+        }
+      ],
+      "title": "PageFunnel_Aish",
+      "dest": "toPage",
+      "customEventType": "CustomData",
+      "customChartType": "FLOWCHART",
+      "term": "HomePage",
+      "customXAxis": null,
+      "metrics": null,
+      "id": "cc01120d78-a50c-4ee0-b553-d60af5f24cd5",
+      "timestamp": 1589811656695
+    },
+    {
+      "tableColumns": null,
+      "creatorUserID": "admin",
+      "chartProperties": {
+        "size": 10,
+        "offset": 0
+      },
+      "customYAxis": null,
+      "source": "fromPage",
+      "filters": [
+        {
+          "filter": "appName",
+          "filterValue": "com.aish.app",
+          "filterOperator": "equals",
+          "filterLabel": "Application Name",
+          "filterOperatorLabel": "Equals"
+        }
+      ],
+      "title": "PageFunnel_Aish",
+      "dest": "toPage",
+      "customEventType": "CustomData",
+      "customChartType": "FLOWCHART",
+      "term": "HomePage",
+      "customXAxis": null,
+      "metrics": null,
+      "id": "ccca1f81d4-a354-4e3f-907f-7fa8a7f2b190",
+      "timestamp": 1589811656663
+    },
+    {
+      "tableColumns": null,
+      "creatorUserID": "admin",
+      "chartProperties": {
+        "size": 10,
+        "offset": 0
+      },
+      "customYAxis": null,
+      "source": null,
+      "filters": [
+        {
+          "filter": "appName",
+          "filterValue": "com.aish.app",
+          "filterOperator": "equals",
+          "filterLabel": "Application Name",
+          "filterOperatorLabel": "Equals"
+        }
+      ],
+      "title": "ChatIntent_Aish",
+      "dest": null,
+      "customEventType": "CustomData",
+      "customChartType": "PIECHART",
+      "term": "Chat-Intents",
+      "customXAxis": null,
+      "metrics": null,
+      "id": "cc9bddd6eb-cb03-4a03-9a96-848653ede30f",
+      "timestamp": 1589811656645
+    },
+    {
+      "tableColumns": null,
+      "creatorUserID": "admin",
+      "chartProperties": {
+        "size": 10,
+        "offset": 0
+      },
+      "customYAxis": null,
+      "source": null,
+      "filters": [
+        {
+          "filter": "appName",
+          "filterValue": "com.aish.app",
+          "filterOperator": "equals",
+          "filterLabel": "Application Name",
+          "filterOperatorLabel": "Equals"
+        }
+      ],
+      "title": "ChatIntent_Aish",
+      "dest": null,
+      "customEventType": "CustomData",
+      "customChartType": "PIECHART",
+      "term": "Chat-Intents",
+      "customXAxis": null,
+      "metrics": null,
+      "id": "cc54dfb14a-78c3-489c-a216-012c245344dc",
+      "timestamp": 1589811656624
+    },
+    {
+      "tableColumns": null,
+      "creatorUserID": "admin",
+      "chartProperties": {
+        "size": 10,
+        "offset": 0
+      },
+      "customYAxis": null,
+      "source": "fromPage",
+      "filters": [
+        {
+          "filter": "appName",
+          "filterValue": "com.aish.app",
+          "filterOperator": "equals",
+          "filterLabel": "Application Name",
+          "filterOperatorLabel": "Equals"
+        }
+      ],
+      "title": "PageFunnel_Aish",
+      "dest": "toPage",
+      "customEventType": "CustomData",
+      "customChartType": "FLOWCHART",
+      "term": "HomePage",
+      "customXAxis": null,
+      "metrics": null,
+      "id": "cc19d0d94f-d2a5-468e-90a9-d4a37c9dd978",
+      "timestamp": 1589811656584
+    },
+    {
+      "tableColumns": null,
+      "creatorUserID": "admin",
+      "chartProperties": {
+        "size": 10,
+        "offset": 0
+      },
+      "customYAxis": null,
+      "source": "fromPage",
+      "filters": [
+        {
+          "filter": "appName",
+          "filterValue": "com.aish.app",
+          "filterOperator": "equals",
+          "filterLabel": "Application Name",
+          "filterOperatorLabel": "Equals"
+        }
+      ],
+      "title": "PageFunnel_Aish",
+      "dest": "toPage",
+      "customEventType": "CustomData",
+      "customChartType": "FLOWCHART",
+      "term": "HomePage",
+      "customXAxis": null,
+      "metrics": null,
+      "id": "ccfd093e56-c288-4327-91c8-ea462d8fa7ff",
+      "timestamp": 1589811656565
+    },
+    {
+      "tableColumns": null,
+      "creatorUserID": "admin",
+      "chartProperties": {
+        "size": 10,
+        "offset": 0
+      },
+      "customYAxis": null,
+      "source": null,
+      "filters": [
+        {
+          "filter": "appName",
+          "filterValue": "com.aish.app",
+          "filterOperator": "equals",
+          "filterLabel": "Application Name",
+          "filterOperatorLabel": "Equals"
+        }
+      ],
+      "title": "ChatIntent_Aish",
+      "dest": null,
+      "customEventType": "CustomData",
+      "customChartType": "PIECHART",
+      "term": "Chat-Intents",
+      "customXAxis": null,
+      "metrics": null,
+      "id": "cca8a54199-5ae0-4076-9157-b9866e4a54eb",
+      "timestamp": 1589811656553
+    },
+    {
+      "tableColumns": null,
+      "creatorUserID": "admin",
+      "chartProperties": {
+        "size": 10,
+        "offset": 0
+      },
+      "customYAxis": null,
+      "source": null,
+      "filters": [
+        {
+          "filter": "appName",
+          "filterValue": "com.aish.app",
+          "filterOperator": "equals",
+          "filterLabel": "Application Name",
+          "filterOperatorLabel": "Equals"
+        }
+      ],
+      "title": "ChatIntent_Aish",
+      "dest": null,
+      "customEventType": "CustomData",
+      "customChartType": "PIECHART",
+      "term": "Chat-Intents",
+      "customXAxis": null,
+      "metrics": null,
+      "id": "cca9871d83-3f9c-4ceb-a684-7eb551684719",
+      "timestamp": 1589811656542
+    },
+    {
+      "tableColumns": null,
+      "creatorUserID": "admin",
+      "chartProperties": {
+        "size": 10,
+        "offset": 0
+      },
+      "customYAxis": null,
+      "source": "fromPage",
+      "filters": [
+        {
+          "filter": "appName",
+          "filterValue": "com.aish.app",
+          "filterOperator": "equals",
+          "filterLabel": "Application Name",
+          "filterOperatorLabel": "Equals"
+        }
+      ],
+      "title": "PageFunnel_Aish",
+      "dest": "toPage",
+      "customEventType": "CustomData",
+      "customChartType": "FLOWCHART",
+      "term": "HomePage",
+      "customXAxis": null,
+      "metrics": null,
+      "id": "cc103aa4eb-8962-446e-97e5-ffa02d8a35f1",
+      "timestamp": 1589811656526
+    },
+    {
+      "tableColumns": null,
+      "creatorUserID": "admin",
+      "chartProperties": {
+        "size": 10,
+        "offset": 0
+      },
+      "customYAxis": null,
+      "source": "fromPage",
+      "filters": [
+        {
+          "filter": "appName",
+          "filterValue": "com.aish.app",
+          "filterOperator": "equals",
+          "filterLabel": "Application Name",
+          "filterOperatorLabel": "Equals"
+        }
+      ],
+      "title": "PageFunnel_Aish",
+      "dest": "toPage",
+      "customEventType": "CustomData",
+      "customChartType": "FLOWCHART",
+      "term": "HomePage",
+      "customXAxis": null,
+      "metrics": null,
+      "id": "cc840f0fd2-2e4d-4bf3-b62f-12f1c89d6c4d",
+      "timestamp": 1589811656504
+    },
+    {
+      "tableColumns": null,
+      "creatorUserID": "admin",
+      "chartProperties": {
+        "size": 10,
+        "offset": 0
+      },
+      "customYAxis": null,
+      "source": null,
+      "filters": [
+        {
+          "filter": "appName",
+          "filterValue": "com.aish.app",
+          "filterOperator": "equals",
+          "filterLabel": "Application Name",
+          "filterOperatorLabel": "Equals"
+        }
+      ],
+      "title": "ChatIntent_Aish",
+      "dest": null,
+      "customEventType": "CustomData",
+      "customChartType": "PIECHART",
+      "term": "Chat-Intents",
+      "customXAxis": null,
+      "metrics": null,
+      "id": "cceb08b31a-f191-4982-adfc-b3ddbc70a10b",
+      "timestamp": 1589811656491
+    },
+    {
+      "tableColumns": null,
+      "creatorUserID": "admin",
+      "chartProperties": {
+        "size": 10,
+        "offset": 0
+      },
+      "customYAxis": null,
+      "source": null,
+      "filters": [
+        {
+          "filter": "appName",
+          "filterValue": "com.aish.app",
+          "filterOperator": "equals",
+          "filterLabel": "Application Name",
+          "filterOperatorLabel": "Equals"
+        }
+      ],
+      "title": "ChatIntent_Aish",
+      "dest": null,
+      "customEventType": "CustomData",
+      "customChartType": "PIECHART",
+      "term": "Chat-Intents",
+      "customXAxis": null,
+      "metrics": null,
+      "id": "cc350634f7-cfc1-4ce1-9fba-1835a18befcd",
+      "timestamp": 1589811656446
+    },
+    {
+      "tableColumns": null,
+      "creatorUserID": "admin",
+      "chartProperties": {
+        "size": 10,
+        "offset": 0
+      },
+      "customYAxis": null,
+      "source": "fromPage",
+      "filters": [
+        {
+          "filter": "appName",
+          "filterValue": "com.aish.app",
+          "filterOperator": "equals",
+          "filterLabel": "Application Name",
+          "filterOperatorLabel": "Equals"
+        }
+      ],
+      "title": "PageFunnel_Aish",
+      "dest": "toPage",
+      "customEventType": "CustomData",
+      "customChartType": "FLOWCHART",
+      "term": "HomePage",
+      "customXAxis": null,
+      "metrics": null,
+      "id": "cc866abf5e-057e-44b6-803c-3683bb2f4e7e",
+      "timestamp": 1589811656413
+    },
+    {
+      "tableColumns": null,
+      "creatorUserID": "admin",
+      "chartProperties": {
+        "size": 10,
+        "offset": 0
+      },
+      "customYAxis": null,
+      "source": "fromPage",
+      "filters": [
+        {
+          "filter": "appName",
+          "filterValue": "com.aish.app",
+          "filterOperator": "equals",
+          "filterLabel": "Application Name",
+          "filterOperatorLabel": "Equals"
+        }
+      ],
+      "title": "PageFunnel_Aish",
+      "dest": "toPage",
+      "customEventType": "CustomData",
+      "customChartType": "FLOWCHART",
+      "term": "HomePage",
+      "customXAxis": null,
+      "metrics": null,
+      "id": "cc75fd2418-3bfe-4475-abbe-00599542edab",
+      "timestamp": 1589811656394
+    },
+    {
+      "tableColumns": null,
+      "creatorUserID": "admin",
+      "chartProperties": {
+        "size": 10,
+        "offset": 0
+      },
+      "customYAxis": null,
+      "source": null,
+      "filters": [
+        {
+          "filter": "appName",
+          "filterValue": "com.aish.app",
+          "filterOperator": "equals",
+          "filterLabel": "Application Name",
+          "filterOperatorLabel": "Equals"
+        }
+      ],
+      "title": "ChatIntent_Aish",
+      "dest": null,
+      "customEventType": "CustomData",
+      "customChartType": "PIECHART",
+      "term": "Chat-Intents",
+      "customXAxis": null,
+      "metrics": null,
+      "id": "cc720705f4-0a6b-4257-90bd-7d68f04af85d",
+      "timestamp": 1589811656385
+    },
+    {
+      "tableColumns": null,
+      "creatorUserID": "admin",
+      "chartProperties": {
+        "size": 10,
+        "offset": 0
+      },
+      "customYAxis": null,
+      "source": null,
+      "filters": [
+        {
+          "filter": "appName",
+          "filterValue": "com.aish.app",
+          "filterOperator": "equals",
+          "filterLabel": "Application Name",
+          "filterOperatorLabel": "Equals"
+        }
+      ],
+      "title": "ChatIntent_Aish",
+      "dest": null,
+      "customEventType": "CustomData",
+      "customChartType": "PIECHART",
+      "term": "Chat-Intents",
+      "customXAxis": null,
+      "metrics": null,
+      "id": "cc77a44c71-630a-4edc-b3de-b288ccf813f6",
+      "timestamp": 1589811656375
+    },
+    {
+      "tableColumns": null,
+      "creatorUserID": "admin",
+      "chartProperties": {
+        "size": 10,
+        "offset": 0
+      },
+      "customYAxis": null,
+      "source": "fromPage",
+      "filters": [
+        {
+          "filter": "appName",
+          "filterValue": "com.aish.app",
+          "filterOperator": "equals",
+          "filterLabel": "Application Name",
+          "filterOperatorLabel": "Equals"
+        }
+      ],
+      "title": "PageFunnel_Aish",
+      "dest": "toPage",
+      "customEventType": "CustomData",
+      "customChartType": "FLOWCHART",
+      "term": "HomePage",
+      "customXAxis": null,
+      "metrics": null,
+      "id": "cc562074e2-5e42-4300-85fa-2caa84ddbbc4",
+      "timestamp": 1589811656363
+    },
+    {
+      "tableColumns": null,
+      "creatorUserID": "admin",
+      "chartProperties": {
+        "size": 10,
+        "offset": 0
+      },
+      "customYAxis": null,
+      "source": "fromPage",
+      "filters": [
+        {
+          "filter": "appName",
+          "filterValue": "com.aish.app",
+          "filterOperator": "equals",
+          "filterLabel": "Application Name",
+          "filterOperatorLabel": "Equals"
+        }
+      ],
+      "title": "PageFunnel_Aish",
+      "dest": "toPage",
+      "customEventType": "CustomData",
+      "customChartType": "FLOWCHART",
+      "term": "HomePage",
+      "customXAxis": null,
+      "metrics": null,
+      "id": "cccbd5d9c6-8d3c-493f-a279-1aadad8a08df",
+      "timestamp": 1589811656347
+    },
+    {
+      "tableColumns": null,
+      "creatorUserID": "admin",
+      "chartProperties": {
+        "size": 10,
+        "offset": 0
+      },
+      "customYAxis": null,
+      "source": null,
+      "filters": [
+        {
+          "filter": "appName",
+          "filterValue": "com.aish.app",
+          "filterOperator": "equals",
+          "filterLabel": "Application Name",
+          "filterOperatorLabel": "Equals"
+        }
+      ],
+      "title": "ChatIntent_Aish",
+      "dest": null,
+      "customEventType": "CustomData",
+      "customChartType": "PIECHART",
+      "term": "Chat-Intents",
+      "customXAxis": null,
+      "metrics": null,
+      "id": "ccd5f5aa5e-1333-4889-9fa7-bb4127b3a408",
+      "timestamp": 1589811656338
+    },
+    {
+      "tableColumns": null,
+      "creatorUserID": "admin",
+      "chartProperties": {
+        "size": 10,
+        "offset": 0
+      },
+      "customYAxis": null,
+      "source": null,
+      "filters": [
+        {
+          "filter": "appName",
+          "filterValue": "com.aish.app",
+          "filterOperator": "equals",
+          "filterLabel": "Application Name",
+          "filterOperatorLabel": "Equals"
+        }
+      ],
+      "title": "ChatIntent_Aish",
+      "dest": null,
+      "customEventType": "CustomData",
+      "customChartType": "PIECHART",
+      "term": "Chat-Intents",
+      "customXAxis": null,
+      "metrics": null,
+      "id": "cc8d8f1f05-c672-43bf-9adb-31359b2268f1",
+      "timestamp": 1589811656325
+    },
+    {
+      "tableColumns": null,
+      "creatorUserID": "admin",
+      "chartProperties": {
+        "size": 10,
+        "offset": 0
+      },
+      "customYAxis": null,
+      "source": "fromPage",
+      "filters": [
+        {
+          "filter": "appName",
+          "filterValue": "com.aish.app",
+          "filterOperator": "equals",
+          "filterLabel": "Application Name",
+          "filterOperatorLabel": "Equals"
+        }
+      ],
+      "title": "PageFunnel_Aish",
+      "dest": "toPage",
+      "customEventType": "CustomData",
+      "customChartType": "FLOWCHART",
+      "term": "HomePage",
+      "customXAxis": null,
+      "metrics": null,
+      "id": "cc66c96a2e-623d-49b8-88e6-5930b0fd21fd",
+      "timestamp": 1589811656311
+    },
+    {
+      "tableColumns": null,
+      "creatorUserID": "admin",
+      "chartProperties": {
+        "size": 10,
+        "offset": 0
+      },
+      "customYAxis": null,
+      "source": "fromPage",
+      "filters": [
+        {
+          "filter": "appName",
+          "filterValue": "com.aish.app",
+          "filterOperator": "equals",
+          "filterLabel": "Application Name",
+          "filterOperatorLabel": "Equals"
+        }
+      ],
+      "title": "PageFunnel_Aish",
+      "dest": "toPage",
+      "customEventType": "CustomData",
+      "customChartType": "FLOWCHART",
+      "term": "HomePage",
+      "customXAxis": null,
+      "metrics": null,
+      "id": "ccaf3cb76f-3ede-4b90-8ae0-01ac7f329a13",
+      "timestamp": 1589811656292
+    },
+    {
+      "tableColumns": null,
+      "creatorUserID": "admin",
+      "chartProperties": {
+        "size": 10,
+        "offset": 0
+      },
+      "customYAxis": null,
+      "source": null,
+      "filters": [
+        {
+          "filter": "appName",
+          "filterValue": "com.aish.app",
+          "filterOperator": "equals",
+          "filterLabel": "Application Name",
+          "filterOperatorLabel": "Equals"
+        }
+      ],
+      "title": "ChatIntent_Aish",
+      "dest": null,
+      "customEventType": "CustomData",
+      "customChartType": "PIECHART",
+      "term": "Chat-Intents",
+      "customXAxis": null,
+      "metrics": null,
+      "id": "cc42d982b1-7953-4b1b-84cf-7821a2c7e50d",
+      "timestamp": 1589811656266
+    },
+    {
+      "tableColumns": null,
+      "creatorUserID": "admin",
+      "chartProperties": {
+        "size": 10,
+        "offset": 0
+      },
+      "customYAxis": null,
+      "source": null,
+      "filters": [
+        {
+          "filter": "appName",
+          "filterValue": "com.aish.app",
+          "filterOperator": "equals",
+          "filterLabel": "Application Name",
+          "filterOperatorLabel": "Equals"
+        }
+      ],
+      "title": "ChatIntent_Aish",
+      "dest": null,
+      "customEventType": "CustomData",
+      "customChartType": "PIECHART",
+      "term": "Chat-Intents",
+      "customXAxis": null,
+      "metrics": null,
+      "id": "cc856b9117-6e67-4800-9f3b-eef563f77e05",
+      "timestamp": 1589811656247
+    },
+    {
+      "tableColumns": null,
+      "creatorUserID": "admin",
+      "chartProperties": {
+        "size": 10,
+        "offset": 0
+      },
+      "customYAxis": null,
+      "source": "fromPage",
+      "filters": [
+        {
+          "filter": "appName",
+          "filterValue": "com.aish.app",
+          "filterOperator": "equals",
+          "filterLabel": "Application Name",
+          "filterOperatorLabel": "Equals"
+        }
+      ],
+      "title": "PageFunnel_Aish",
+      "dest": "toPage",
+      "customEventType": "CustomData",
+      "customChartType": "FLOWCHART",
+      "term": "HomePage",
+      "customXAxis": null,
+      "metrics": null,
+      "id": "cc0e8a3881-d62a-49eb-b1c2-f57c7c32fa88",
+      "timestamp": 1589811656218
+    },
+    {
+      "tableColumns": null,
+      "creatorUserID": "admin",
+      "chartProperties": {
+        "size": 10,
+        "offset": 0
+      },
+      "customYAxis": null,
+      "source": "fromPage",
+      "filters": [
+        {
+          "filter": "appName",
+          "filterValue": "com.aish.app",
+          "filterOperator": "equals",
+          "filterLabel": "Application Name",
+          "filterOperatorLabel": "Equals"
+        }
+      ],
+      "title": "PageFunnel_Aish",
+      "dest": "toPage",
+      "customEventType": "CustomData",
+      "customChartType": "FLOWCHART",
+      "term": "HomePage",
+      "customXAxis": null,
+      "metrics": null,
+      "id": "cce5ddc0a8-76d9-48cf-9d72-0ab6dadca580",
+      "timestamp": 1589811656193
+    },
+    {
+      "tableColumns": null,
+      "creatorUserID": "admin",
+      "chartProperties": {
+        "size": 10,
+        "offset": 0
+      },
+      "customYAxis": null,
+      "source": null,
+      "filters": [
+        {
+          "filter": "appName",
+          "filterValue": "com.aish.app",
+          "filterOperator": "equals",
+          "filterLabel": "Application Name",
+          "filterOperatorLabel": "Equals"
+        }
+      ],
+      "title": "ChatIntent_Aish",
+      "dest": null,
+      "customEventType": "CustomData",
+      "customChartType": "PIECHART",
+      "term": "Chat-Intents",
+      "customXAxis": null,
+      "metrics": null,
+      "id": "cc759158aa-c6bd-45f2-9964-156e07b9cb79",
+      "timestamp": 1589811656176
+    },
+    {
+      "tableColumns": null,
+      "creatorUserID": "admin",
+      "chartProperties": {
+        "size": 10,
+        "offset": 0
+      },
+      "customYAxis": null,
+      "source": null,
+      "filters": [
+        {
+          "filter": "appName",
+          "filterValue": "com.aish.app",
+          "filterOperator": "equals",
+          "filterLabel": "Application Name",
+          "filterOperatorLabel": "Equals"
+        }
+      ],
+      "title": "ChatIntent_Aish",
+      "dest": null,
+      "customEventType": "CustomData",
+      "customChartType": "PIECHART",
+      "term": "Chat-Intents",
+      "customXAxis": null,
+      "metrics": null,
+      "id": "cc22026143-4d22-4d8e-9e8f-962db8b46d65",
+      "timestamp": 1589811656160
+    },
+    {
+      "tableColumns": null,
+      "creatorUserID": "admin",
+      "chartProperties": {
+        "size": 10,
+        "offset": 0
+      },
+      "customYAxis": null,
+      "source": "fromPage",
+      "filters": [
+        {
+          "filter": "appName",
+          "filterValue": "com.aish.app",
+          "filterOperator": "equals",
+          "filterLabel": "Application Name",
+          "filterOperatorLabel": "Equals"
+        }
+      ],
+      "title": "PageFunnel_Aish",
+      "dest": "toPage",
+      "customEventType": "CustomData",
+      "customChartType": "FLOWCHART",
+      "term": "HomePage",
+      "customXAxis": null,
+      "metrics": null,
+      "id": "cc9c91bb81-0a67-43d0-a7ab-3cf92e346b54",
+      "timestamp": 1589811656135
+    },
+    {
+      "tableColumns": null,
+      "creatorUserID": "admin",
+      "chartProperties": {
+        "size": 10,
+        "offset": 0
+      },
+      "customYAxis": null,
+      "source": "fromPage",
+      "filters": [
+        {
+          "filter": "appName",
+          "filterValue": "com.aish.app",
+          "filterOperator": "equals",
+          "filterLabel": "Application Name",
+          "filterOperatorLabel": "Equals"
+        }
+      ],
+      "title": "PageFunnel_Aish",
+      "dest": "toPage",
+      "customEventType": "CustomData",
+      "customChartType": "FLOWCHART",
+      "term": "HomePage",
+      "customXAxis": null,
+      "metrics": null,
+      "id": "ccd0323a9a-984d-4a05-bc72-93b5f3411553",
+      "timestamp": 1589811656114
+    },
+    {
+      "tableColumns": null,
+      "creatorUserID": "admin",
+      "chartProperties": {
+        "size": 10,
+        "offset": 0
+      },
+      "customYAxis": null,
+      "source": null,
+      "filters": [
+        {
+          "filter": "appName",
+          "filterValue": "com.aish.app",
+          "filterOperator": "equals",
+          "filterLabel": "Application Name",
+          "filterOperatorLabel": "Equals"
+        }
+      ],
+      "title": "ChatIntent_Aish",
+      "dest": null,
+      "customEventType": "CustomData",
+      "customChartType": "PIECHART",
+      "term": "Chat-Intents",
+      "customXAxis": null,
+      "metrics": null,
+      "id": "ccc2dbeab1-ca4f-4079-852f-1bd50e56f2cc",
+      "timestamp": 1589811656096
+    },
+    {
+      "tableColumns": null,
+      "creatorUserID": "admin",
+      "chartProperties": {
+        "size": 10,
+        "offset": 0
+      },
+      "customYAxis": null,
+      "source": null,
+      "filters": [
+        {
+          "filter": "appName",
+          "filterValue": "com.aish.app",
+          "filterOperator": "equals",
+          "filterLabel": "Application Name",
+          "filterOperatorLabel": "Equals"
+        }
+      ],
+      "title": "ChatIntent_Aish",
+      "dest": null,
+      "customEventType": "CustomData",
+      "customChartType": "PIECHART",
+      "term": "Chat-Intents",
+      "customXAxis": null,
+      "metrics": null,
+      "id": "cc192e5bbb-dce3-4b11-bd18-0d3ffdb451f8",
+      "timestamp": 1589811656081
+    },
+    {
+      "tableColumns": null,
+      "creatorUserID": "admin",
+      "chartProperties": {
+        "size": 10,
+        "offset": 0
+      },
+      "customYAxis": null,
+      "source": "fromPage",
+      "filters": [
+        {
+          "filter": "appName",
+          "filterValue": "com.aish.app",
+          "filterOperator": "equals",
+          "filterLabel": "Application Name",
+          "filterOperatorLabel": "Equals"
+        }
+      ],
+      "title": "PageFunnel_Aish",
+      "dest": "toPage",
+      "customEventType": "CustomData",
+      "customChartType": "FLOWCHART",
+      "term": "HomePage",
+      "customXAxis": null,
+      "metrics": null,
+      "id": "cccaf96dd0-d4cc-4a8f-87d1-6b8425e5aa75",
+      "timestamp": 1589811656062
+    },
+    {
+      "tableColumns": null,
+      "creatorUserID": "admin",
+      "chartProperties": {
+        "size": 10,
+        "offset": 0
+      },
+      "customYAxis": null,
+      "source": "fromPage",
+      "filters": [
+        {
+          "filter": "appName",
+          "filterValue": "com.aish.app",
+          "filterOperator": "equals",
+          "filterLabel": "Application Name",
+          "filterOperatorLabel": "Equals"
+        }
+      ],
+      "title": "PageFunnel_Aish",
+      "dest": "toPage",
+      "customEventType": "CustomData",
+      "customChartType": "FLOWCHART",
+      "term": "HomePage",
+      "customXAxis": null,
+      "metrics": null,
+      "id": "cc339b82f9-9c00-4788-be20-939b19f545a4",
+      "timestamp": 1589811656039
+    },
+    {
+      "tableColumns": null,
+      "creatorUserID": "admin",
+      "chartProperties": {
+        "size": 10,
+        "offset": 0
+      },
+      "customYAxis": null,
+      "source": null,
+      "filters": [
+        {
+          "filter": "appName",
+          "filterValue": "com.aish.app",
+          "filterOperator": "equals",
+          "filterLabel": "Application Name",
+          "filterOperatorLabel": "Equals"
+        }
+      ],
+      "title": "ChatIntent_Aish",
+      "dest": null,
+      "customEventType": "CustomData",
+      "customChartType": "PIECHART",
+      "term": "Chat-Intents",
+      "customXAxis": null,
+      "metrics": null,
+      "id": "cc2e451db4-922a-4d34-bb6c-47576e35d6e1",
+      "timestamp": 1589811656019
+    },
+    {
+      "tableColumns": null,
+      "creatorUserID": "admin",
+      "chartProperties": {
+        "size": 10,
+        "offset": 0
+      },
+      "customYAxis": null,
+      "source": null,
+      "filters": [
+        {
+          "filter": "appName",
+          "filterValue": "com.aish.app",
+          "filterOperator": "equals",
+          "filterLabel": "Application Name",
+          "filterOperatorLabel": "Equals"
+        }
+      ],
+      "title": "ChatIntent_Aish",
+      "dest": null,
+      "customEventType": "CustomData",
+      "customChartType": "PIECHART",
+      "term": "Chat-Intents",
+      "customXAxis": null,
+      "metrics": null,
+      "id": "cc8ea0c73c-cde4-4175-a2cf-ac36d387bef0",
+      "timestamp": 1589811656000
+    },
+    {
+      "tableColumns": null,
+      "creatorUserID": "admin",
+      "chartProperties": {
+        "size": 10,
+        "offset": 0
+      },
+      "customYAxis": null,
+      "source": "fromPage",
+      "filters": [
+        {
+          "filter": "appName",
+          "filterValue": "com.aish.app",
+          "filterOperator": "equals",
+          "filterLabel": "Application Name",
+          "filterOperatorLabel": "Equals"
+        }
+      ],
+      "title": "PageFunnel_Aish",
+      "dest": "toPage",
+      "customEventType": "CustomData",
+      "customChartType": "FLOWCHART",
+      "term": "HomePage",
+      "customXAxis": null,
+      "metrics": null,
+      "id": "cc97f7e093-9f62-4770-a939-48efe5ff8c53",
+      "timestamp": 1589811655983
+    },
+    {
+      "tableColumns": null,
+      "creatorUserID": "admin",
+      "chartProperties": {
+        "size": 10,
+        "offset": 0
+      },
+      "customYAxis": null,
+      "source": "fromPage",
+      "filters": [
+        {
+          "filter": "appName",
+          "filterValue": "com.aish.app",
+          "filterOperator": "equals",
+          "filterLabel": "Application Name",
+          "filterOperatorLabel": "Equals"
+        }
+      ],
+      "title": "PageFunnel_Aish",
+      "dest": "toPage",
+      "customEventType": "CustomData",
+      "customChartType": "FLOWCHART",
+      "term": "HomePage",
+      "customXAxis": null,
+      "metrics": null,
+      "id": "cc675addaf-0260-4530-9896-fe776a664f95",
+      "timestamp": 1589811655962
+    },
+    {
+      "tableColumns": null,
+      "creatorUserID": "admin",
+      "chartProperties": {
+        "size": 10,
+        "offset": 0
+      },
+      "customYAxis": null,
+      "source": null,
+      "filters": [
+        {
+          "filter": "appName",
+          "filterValue": "com.aish.app",
+          "filterOperator": "equals",
+          "filterLabel": "Application Name",
+          "filterOperatorLabel": "Equals"
+        }
+      ],
+      "title": "ChatIntent_Aish",
+      "dest": null,
+      "customEventType": "CustomData",
+      "customChartType": "PIECHART",
+      "term": "Chat-Intents",
+      "customXAxis": null,
+      "metrics": null,
+      "id": "cc74c5e4a1-1826-43f0-97ff-6ac99f290fe6",
+      "timestamp": 1589811655952
+    },
+    {
+      "tableColumns": null,
+      "creatorUserID": "admin",
+      "chartProperties": {
+        "size": 10,
+        "offset": 0
+      },
+      "customYAxis": null,
+      "source": null,
+      "filters": [
+        {
+          "filter": "appName",
+          "filterValue": "com.aish.app",
+          "filterOperator": "equals",
+          "filterLabel": "Application Name",
+          "filterOperatorLabel": "Equals"
+        }
+      ],
+      "title": "ChatIntent_Aish",
+      "dest": null,
+      "customEventType": "CustomData",
+      "customChartType": "PIECHART",
+      "term": "Chat-Intents",
+      "customXAxis": null,
+      "metrics": null,
+      "id": "cc76f0ca55-8cd8-4f15-a479-dc7b6e466ed1",
+      "timestamp": 1589811655944
+    },
+    {
+      "tableColumns": null,
+      "creatorUserID": "admin",
+      "chartProperties": {
+        "size": 10,
+        "offset": 0
+      },
+      "customYAxis": null,
+      "source": "fromPage",
+      "filters": [
+        {
+          "filter": "appName",
+          "filterValue": "com.aish.app",
+          "filterOperator": "equals",
+          "filterLabel": "Application Name",
+          "filterOperatorLabel": "Equals"
+        }
+      ],
+      "title": "PageFunnel_Aish",
+      "dest": "toPage",
+      "customEventType": "CustomData",
+      "customChartType": "FLOWCHART",
+      "term": "HomePage",
+      "customXAxis": null,
+      "metrics": null,
+      "id": "cc577c9292-2824-4b70-a1b5-6a2dd05128c7",
+      "timestamp": 1589811655934
+    },
+    {
+      "tableColumns": null,
+      "creatorUserID": "admin",
+      "chartProperties": {
+        "size": 10,
+        "offset": 0
+      },
+      "customYAxis": null,
+      "source": "fromPage",
+      "filters": [
+        {
+          "filter": "appName",
+          "filterValue": "com.aish.app",
+          "filterOperator": "equals",
+          "filterLabel": "Application Name",
+          "filterOperatorLabel": "Equals"
+        }
+      ],
+      "title": "PageFunnel_Aish",
+      "dest": "toPage",
+      "customEventType": "CustomData",
+      "customChartType": "FLOWCHART",
+      "term": "HomePage",
+      "customXAxis": null,
+      "metrics": null,
+      "id": "cc27bfc412-1883-47cd-91e3-ad3fb507699c",
+      "timestamp": 1589811655920
+    },
+    {
+      "tableColumns": null,
+      "creatorUserID": "admin",
+      "chartProperties": {
+        "size": 10,
+        "offset": 0
+      },
+      "customYAxis": null,
+      "source": null,
+      "filters": [
+        {
+          "filter": "appName",
+          "filterValue": "com.aish.app",
+          "filterOperator": "equals",
+          "filterLabel": "Application Name",
+          "filterOperatorLabel": "Equals"
+        }
+      ],
+      "title": "ChatIntent_Aish",
+      "dest": null,
+      "customEventType": "CustomData",
+      "customChartType": "PIECHART",
+      "term": "Chat-Intents",
+      "customXAxis": null,
+      "metrics": null,
+      "id": "ccd1ea3df6-cc50-433b-a0a0-b6eff4a4ae28",
+      "timestamp": 1589811655910
+    },
+    {
+      "tableColumns": null,
+      "creatorUserID": "admin",
+      "chartProperties": {
+        "size": 10,
+        "offset": 0
+      },
+      "customYAxis": null,
+      "source": null,
+      "filters": [
+        {
+          "filter": "appName",
+          "filterValue": "com.aish.app",
+          "filterOperator": "equals",
+          "filterLabel": "Application Name",
+          "filterOperatorLabel": "Equals"
+        }
+      ],
+      "title": "ChatIntent_Aish",
+      "dest": null,
+      "customEventType": "CustomData",
+      "customChartType": "PIECHART",
+      "term": "Chat-Intents",
+      "customXAxis": null,
+      "metrics": null,
+      "id": "ccbaa77e5c-cb8d-47ec-aeff-8899baf4cfdd",
+      "timestamp": 1589811655900
+    },
+    {
+      "tableColumns": null,
+      "creatorUserID": "admin",
+      "chartProperties": {
+        "size": 10,
+        "offset": 0
+      },
+      "customYAxis": null,
+      "source": "fromPage",
+      "filters": [
+        {
+          "filter": "appName",
+          "filterValue": "com.aish.app",
+          "filterOperator": "equals",
+          "filterLabel": "Application Name",
+          "filterOperatorLabel": "Equals"
+        }
+      ],
+      "title": "PageFunnel_Aish",
+      "dest": "toPage",
+      "customEventType": "CustomData",
+      "customChartType": "FLOWCHART",
+      "term": "HomePage",
+      "customXAxis": null,
+      "metrics": null,
+      "id": "cc8b08af29-55d3-461c-a11b-869a21e8fd81",
+      "timestamp": 1589811655890
+    },
+    {
+      "tableColumns": null,
+      "creatorUserID": "admin",
+      "chartProperties": {
+        "size": 10,
+        "offset": 0
+      },
+      "customYAxis": null,
+      "source": "fromPage",
+      "filters": [
+        {
+          "filter": "appName",
+          "filterValue": "com.aish.app",
+          "filterOperator": "equals",
+          "filterLabel": "Application Name",
+          "filterOperatorLabel": "Equals"
+        }
+      ],
+      "title": "PageFunnel_Aish",
+      "dest": "toPage",
+      "customEventType": "CustomData",
+      "customChartType": "FLOWCHART",
+      "term": "HomePage",
+      "customXAxis": null,
+      "metrics": null,
+      "id": "cc39db0e47-6aa1-4dd3-a051-afdd846bcd00",
+      "timestamp": 1589811655879
+    },
+    {
+      "tableColumns": null,
+      "creatorUserID": "admin",
+      "chartProperties": {
+        "size": 10,
+        "offset": 0
+      },
+      "customYAxis": null,
+      "source": null,
+      "filters": [
+        {
+          "filter": "appName",
+          "filterValue": "com.aish.app",
+          "filterOperator": "equals",
+          "filterLabel": "Application Name",
+          "filterOperatorLabel": "Equals"
+        }
+      ],
+      "title": "ChatIntent_Aish",
+      "dest": null,
+      "customEventType": "CustomData",
+      "customChartType": "PIECHART",
+      "term": "Chat-Intents",
+      "customXAxis": null,
+      "metrics": null,
+      "id": "ccfa04ca9e-18ea-40f7-b1c7-d538da9cbad1",
+      "timestamp": 1589811655870
+    },
+    {
+      "tableColumns": null,
+      "creatorUserID": "admin",
+      "chartProperties": {
+        "size": 10,
+        "offset": 0
+      },
+      "customYAxis": null,
+      "source": null,
+      "filters": [
+        {
+          "filter": "appName",
+          "filterValue": "com.aish.app",
+          "filterOperator": "equals",
+          "filterLabel": "Application Name",
+          "filterOperatorLabel": "Equals"
+        }
+      ],
+      "title": "ChatIntent_Aish",
+      "dest": null,
+      "customEventType": "CustomData",
+      "customChartType": "PIECHART",
+      "term": "Chat-Intents",
+      "customXAxis": null,
+      "metrics": null,
+      "id": "cc423b8fe7-0917-4edd-af27-9686ffca24b2",
+      "timestamp": 1589811655861
+    },
+    {
+      "tableColumns": null,
+      "creatorUserID": "admin",
+      "chartProperties": {
+        "size": 10,
+        "offset": 0
+      },
+      "customYAxis": null,
+      "source": "fromPage",
+      "filters": [
+        {
+          "filter": "appName",
+          "filterValue": "com.aish.app",
+          "filterOperator": "equals",
+          "filterLabel": "Application Name",
+          "filterOperatorLabel": "Equals"
+        }
+      ],
+      "title": "PageFunnel_Aish",
+      "dest": "toPage",
+      "customEventType": "CustomData",
+      "customChartType": "FLOWCHART",
+      "term": "HomePage",
+      "customXAxis": null,
+      "metrics": null,
+      "id": "cc675aceef-89de-420e-88d4-fa02cede3aa2",
+      "timestamp": 1589811655852
+    },
+    {
+      "tableColumns": null,
+      "creatorUserID": "admin",
+      "chartProperties": {
+        "size": 10,
+        "offset": 0
+      },
+      "customYAxis": null,
+      "source": "fromPage",
+      "filters": [
+        {
+          "filter": "appName",
+          "filterValue": "com.aish.app",
+          "filterOperator": "equals",
+          "filterLabel": "Application Name",
+          "filterOperatorLabel": "Equals"
+        }
+      ],
+      "title": "PageFunnel_Aish",
+      "dest": "toPage",
+      "customEventType": "CustomData",
+      "customChartType": "FLOWCHART",
+      "term": "HomePage",
+      "customXAxis": null,
+      "metrics": null,
+      "id": "cc97223536-0b0a-4182-867f-6160e02ff4dc",
+      "timestamp": 1589811655841
+    },
+    {
+      "tableColumns": null,
+      "creatorUserID": "admin",
+      "chartProperties": {
+        "size": 10,
+        "offset": 0
+      },
+      "customYAxis": null,
+      "source": null,
+      "filters": [
+        {
+          "filter": "appName",
+          "filterValue": "com.aish.app",
+          "filterOperator": "equals",
+          "filterLabel": "Application Name",
+          "filterOperatorLabel": "Equals"
+        }
+      ],
+      "title": "ChatIntent_Aish",
+      "dest": null,
+      "customEventType": "CustomData",
+      "customChartType": "PIECHART",
+      "term": "Chat-Intents",
+      "customXAxis": null,
+      "metrics": null,
+      "id": "cc1ce381e8-6d42-41e7-89a0-2fa62d1732a6",
+      "timestamp": 1589811655832
+    },
+    {
+      "tableColumns": null,
+      "creatorUserID": "admin",
+      "chartProperties": {
+        "size": 10,
+        "offset": 0
+      },
+      "customYAxis": null,
+      "source": null,
+      "filters": [
+        {
+          "filter": "appName",
+          "filterValue": "com.aish",
+          "filterOperator": "equals",
+          "filterLabel": "Application Name",
+          "filterOperatorLabel": "Equals"
+        }
+      ],
+      "title": "ChatIntent_devTestDesign",
+      "dest": null,
+      "customEventType": "CustomData",
+      "customChartType": "PIECHART",
+      "term": "Chat-Intents",
+      "customXAxis": null,
+      "metrics": null,
+      "id": "ccbf5863c2-4b02-41bd-a723-7ba31bda282e",
+      "timestamp": 1589811655820
+    },
+    {
+      "tableColumns": null,
+      "creatorUserID": "admin",
+      "chartProperties": {
+        "size": 10,
+        "offset": 0
+      },
+      "customYAxis": null,
+      "source": "fromPage",
+      "filters": [
+        {
+          "filter": "appName",
+          "filterValue": "com.aish",
+          "filterOperator": "equals",
+          "filterLabel": "Application Name",
+          "filterOperatorLabel": "Equals"
+        }
+      ],
+      "title": "PageFunnel_devTestDesign",
+      "dest": "toPage",
+      "customEventType": "CustomData",
+      "customChartType": "FLOWCHART",
+      "term": "HomePage",
+      "customXAxis": null,
+      "metrics": null,
+      "id": "cc9b209dd6-e60a-4c28-b6db-48ef46455f7c",
+      "timestamp": 1589811655806
+    }
+  ]
+}
